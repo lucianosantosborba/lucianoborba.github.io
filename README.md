@@ -26,6 +26,7 @@
 	
 </p><hr>
 	<IMG SRC="https://i.pinimg.com/originals/11/12/19/1112191c4863475bc7ba769196fde129.gif">
+		<img src="https://img1.picmix.com/output/pic/normal/1/5/2/9/5909251_783a5.gif">
 </h2>
 	
 <CENTER><h1>LUCIANO DE BOA</H1></CENTER>
@@ -45,5 +46,5 @@ TANK  YOU GRATIES GRACIES OBRIGADA ETC!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 	<link>https://www.youtube.com/embed/XnAX3QkHZ64</link>
 
 </h3>
-<link>https://i.pinimg.com/originals/9a/f6/a2/9af6a29764685f1a2daa87a7f6a5d365.gif</link>
+<link><img src="https://i.pinimg.com/originals/9a/f6/a2/9af6a29764685f1a2daa87a7f6a5d365.gif></link>
 </body></html>
