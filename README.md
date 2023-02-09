@@ -29,7 +29,7 @@
 		<center><img src="https://img1.picmix.com/output/pic/normal/1/5/2/9/5909251_783a5.gif"></center>
 </h2>
 	
-<CENTER><h1>LUCIANO DE BOA</H1></CENTER>
+<CENTER><h1>LUCIANO DE BOA</H1></CENTER>:-))))   '''!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!:-)))
 
 
 <link>https://bscscan.com/token/0x19d45da4c5fb97c2ed80e48507f6bab162b54b08</link>
