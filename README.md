@@ -7,7 +7,7 @@
 
 
 </head>
-<body background="#000000">
+<body background="#000000"><doctype html="#000000">
 
 
 
