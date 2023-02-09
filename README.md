@@ -26,8 +26,7 @@
 	<IMG SRC="https://i.pinimg.com/originals/11/12/19/1112191c4863475bc7ba769196fde129.gif">
 </p><p>
 </h2>
-	<adreess>https://recentcoin.com/token/liebecoin-lbc-0x19d45da4</adreess
-
+	<link>[https://recentcoin.com/token/liebecoin-lbc-0x19d45da4](https://bscscan.com/token/0x19d45da4c5fb97c2ed80e48507f6bab162b54b08)</link>
 <CENTER><h1>LUCIANO DE BOA</H1></CENTER>
 
 
