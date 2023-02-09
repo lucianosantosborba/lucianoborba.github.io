@@ -42,8 +42,8 @@ TANK  YOU GRATIES GRACIES OBRIGADA ETC!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 <button>paz</button>
 
 </pre>
-	<a>https://www.youtube.com/embed/XnAX3QkHZ64</a>
+	<link>https://www.youtube.com/embed/XnAX3QkHZ64</link>
 
 </h3>
-
+<link>https://i.pinimg.com/originals/9a/f6/a2/9af6a29764685f1a2daa87a7f6a5d365.gif</link>
 </body></html>
