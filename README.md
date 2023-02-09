@@ -22,7 +22,7 @@
 <p>
 
 	
-		<a href="https://br.pinterest.com/search/pins/?q=Fts%20sensuais&rs=rs&eq=&etslf=4296">OK|</a>
+		<img src="https://br.pinterest.com/search/pins/?q=Fts%20sensuais&rs=rs&eq=&etslf=4296">OK|</a>
 		<a href="https://st2.depositphotos.com/1722785/6822/i/450/depositphotos_68224687-stock-photo-sexy-woman-kneeling-and-holding.jpg">SEX|</a>
 		<a href="https://www.horariodebrasilia.org/">HORACERTA|</a>
 		<a href="https://player.vimeo.com/external/368460590.sd.mp4?s=acc6272ec264a62a8947cd8060d81d85a5bbfe01&amp;profile_id=164&amp;oauth2_token_id=57447761">CONTATO</a>
@@ -37,7 +37,7 @@
 
 <h3>
 <pre><p align="center">
-TNKYOU GRATIES GRACIES OBRIGADA ETC!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+TANK  YOU GRATIES GRACIES OBRIGADA ETC!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 </p>
 
