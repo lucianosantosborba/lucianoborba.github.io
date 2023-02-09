@@ -2,8 +2,7 @@
 <DOCTYPE html><html><head>
 	<link rel="stylesheet" type="text/css">
 
-h1{color:12589adf;
-	}
+
 
 
 
@@ -23,9 +22,10 @@ h1{color:12589adf;
 <p>
 
 	
-		<h1>MUITA PAZ SAUDE E FELICIDADES, PARA ESTE ANO E OS PROXIMOS FELICIDADES</h1>
+		MUITA PAZ SAUDE E FELICIDADES, PARA ESTE ANO E OS PROXIMOS FELICIDADES</h1
+	
+</p><hr>
 	<IMG SRC="https://i.pinimg.com/originals/11/12/19/1112191c4863475bc7ba769196fde129.gif">
-</p><p>
 </h2>
 	
 <CENTER><h1>LUCIANO DE BOA</H1></CENTER>
