@@ -43,8 +43,13 @@ TANK  YOU GRATIES GRACIES OBRIGADA ETC!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 <button>paz</button>
 
 </pre>
+	<h2 class="texto"><p align="center">
+<a href="file:///C:/Users/User/Downloads/ebdd3e52049f20a657318fc665a868a3.mp4"><img width="500px" height="375" src="https://i.pinimg.com/originals/9a/f6/a2/9af6a29764685f1a2daa87a7f6a5d365.gif"></a></p>
+
+<p>
+
 	<link>https://www.youtube.com/embed/XnAX3QkHZ64</link>
 
 </h3>
-<link><img src="https://i.pinimg.com/originals/9a/f6/a2/9af6a29764685f1a2daa87a7f6a5d365.gif></link>
+
 </body></html>
