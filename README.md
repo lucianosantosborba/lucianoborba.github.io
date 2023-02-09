@@ -7,7 +7,7 @@
 
 
 </head>
-<body background="#000000"><doctype html="">
+<body background="#000000">
 
 
 
@@ -23,9 +23,10 @@
 
 	
 		MUITA PAZ SAUDE E FELICIDADES, PARA ESTE ANO E OS PROXIMOS FELICIDADES
-	<a href ="mailto:https://bscscan.com/token/0x19d45da4c5fb97c2ed80e48507f6bab162b54b08"><IMG SRC="https://i.pinimg.com/originals/11/12/19/1112191c4863475bc7ba769196fde129.gif"></a>
+	<IMG SRC="https://i.pinimg.com/originals/11/12/19/1112191c4863475bc7ba769196fde129.gif">
 </p><p>
 </h2>
+	<adreess>https://recentcoin.com/token/liebecoin-lbc-0x19d45da4</adreess
 
 <CENTER><h1>LUCIANO DE BOA</H1></CENTER>
 
