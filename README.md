@@ -26,7 +26,7 @@
 	
 </p><hr>
 	<IMG SRC="https://i.pinimg.com/originals/11/12/19/1112191c4863475bc7ba769196fde129.gif">
-		<img src="https://img1.picmix.com/output/pic/normal/1/5/2/9/5909251_783a5.gif">
+		<center><img src="https://img1.picmix.com/output/pic/normal/1/5/2/9/5909251_783a5.gif"></center>
 </h2>
 	
 <CENTER><h1>LUCIANO DE BOA</H1></CENTER>
