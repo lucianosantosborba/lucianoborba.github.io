@@ -4,16 +4,7 @@
 
 
 
-p {align:center;
-		
-		}
-	h1{font-face:verdana:
-	color:violet
-	
-	}
-	
-	
-	</link>
+
 	
 
 
@@ -63,5 +54,15 @@ TANK  YOU GRATIES GRACIES OBRIGADA ETC!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 	<link>https://www.youtube.com/embed/XnAX3QkHZ64</link>
 
 </h3>
-
+	</P><hr>
+	
+	<p align="center" fonte-face="verdana">
+	
+	Tenham uma ótima semana de descanço e de trabalho,	
+	
+	</p>
+	<div id="video-wrap" class="row">
+        <div id="video-row" class="row">
+           <div class="embed-container"><iframe src="https://www.youtube.com/embed/NRCMMC6wIE0?enablejsapi=1&vq=hd720&modestbranding=1&iv_load_policy=3&rel=0&showinfo=0&disablekb=1&autoplay=1&cc=1" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>			</div>
+        </div>
 </body></html>
