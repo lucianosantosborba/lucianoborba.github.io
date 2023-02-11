@@ -56,13 +56,11 @@ https://www.youtube.com/embed/XnAX3QkHZ64
 </h3>
 	</P><hr>
 	
-	<h2>
+	
 	
 	Tenham uma ótima semana de descanço e de trabalho,paz e amor!!!!!!!!!	
 	
-	</h2><hr>
-	<p>
-	<IMG SRC ="https://i.pinimg.com/originals/37/f0/e3/37f0e3a7f7c729e4f7c76689299b391e.jpg">
+	WWW.i.pinimg.com/originals/37/f0/e3/37f0e3a7f7c729e4f7c76689299b391e.jpg
 	<img src="https://i.pinimg.com/originals/20/4c/98/204c98d242aebc11041b0e487014012e.jpg"><br>
 		<img src="https://i.pinimg.com/originals/08/4d/e7/084de7ab7049b7d787568154d9f94e4d.jpg"><br></P>
 </body></html>
