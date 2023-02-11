@@ -56,11 +56,11 @@ TANK  YOU GRATIES GRACIES OBRIGADA ETC!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 </h3>
 	</P><hr>
 	
-	<p>
+	<h2>
 	
 	Tenham uma ótima semana de descanço e de trabalho,	
 	
-	</p>
+	</h2>
 	<img src="https://i.pinimg.com/originals/37/f0/e3/37f0e3a7f7c729e4f7c76689299b391e.jpg"><hr>
 	<img src="https://i.pinimg.com/originals/20/4c/98/204c98d242aebc11041b0e487014012e.jpg"><br>
 	<img src="https://i.pinimg.com/originals/08/4d/e7/084de7ab7049b7d787568154d9f94e4d.jpg">
