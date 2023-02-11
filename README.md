@@ -3,15 +3,17 @@
 	<link rel="stylesheet" type="text/css">
 
 
-	
-	BODY{background:#000123;
-		
+<style>	
+p {align:center;
 		
 		}
+	h1{font-face:verdana:
+	color:violet
+	
+	}
 	
 	
-	
-	
+	</style>
 	
 
 
