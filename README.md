@@ -3,7 +3,7 @@
 	<link rel="stylesheet" type="text/css">
 
 
-	<style>
+	
 	BODY{background:#000123;
 		
 		
@@ -13,8 +13,7 @@
 	
 	
 	
-	
-	</style>
+
 
 
 </head>
