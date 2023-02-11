@@ -3,7 +3,7 @@
 	<link rel="stylesheet" type="text/css">
 
 
-<style>	
+
 p {align:center;
 		
 		}
@@ -13,7 +13,7 @@ p {align:center;
 	}
 	
 	
-	</style>
+	</link>
 	
 
 
