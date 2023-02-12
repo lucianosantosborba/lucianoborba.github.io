@@ -84,8 +84,7 @@ tomara que venham a conseguir esta benção
 	Já estão totalmente valorizados pela rede de valorizações só faltam as exchanges liberarem
 		
 	
-		
-	<a href="https://i.pinimg.com/originals/44/ed/42/44ed429772f436d061e25e48b69888b8.jpg"><img width="500px" height="375" src="https://i.pinimg.cohttps://i.pinimg.com/originals/44/ed/42/44ed429772f436d061e25e48b69888b8.jpg"></a></p>	
+	<img width="500px" height="375" src="https://i.pinimg.cohttps://i.pinimg.com/originals/44/ed/42/44ed429772f436d061e25e48b69888b8.jpg"></a></p>	
 		
 	
 	
