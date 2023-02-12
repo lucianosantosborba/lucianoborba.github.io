@@ -81,7 +81,9 @@ temperatura do ambiente 4ºcent a -40º
 tomara que venham a conseguir esta benção
 <a href="https://i.pinimg.com/originals/4b/4f/e9/4b4fe961740d8ad4c2b8668f5a1b9249.gifg"><img width="500px" height="375" src="https://i.pinimg.com/originals/4b/4f/e9/4b4fe961740d8ad4c2b8668f5a1b9249.gif"></a></p>
 
-	Já estão totalmente valorizados pela rede de valorizações só faltam as exchanges liberarem
+	Já estão totalmente valorizados pela rede de valorizações só faltam
+	(https://recentcoin.com/token/canadiantruckers-ctruck-0x6286604f)
+	as exchanges liberarem
 		
 	
 	
