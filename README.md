@@ -75,6 +75,11 @@ https://www.youtube.com/embed/XnAX3QkHZ64
 	
 <a href="https://i.pinimg.com/564x/96/e5/fc/96e5fc5aa7bf27abb15d1e1068d827b2.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/20/4c/98/204c98d242aebc11041b0e487014012e.jpg"></a></p>
 	
-<a href="https://i.pinimg.com/564x/96/e5/fc/96e5fc5aa7bf27abb15d1e1068d827b2.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/37/f0/e3/37f0e3a7f7c729e4f7c76689299b391e.jpg"></a></p>		
+<a href="https://i.pinimg.com/564x/96/e5/fc/96e5fc5aa7bf27abb15d1e1068d827b2.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/37/f0/e3/37f0e3a7f7c729e4f7c76689299b391e.jpg"></a></p>	<pre>
+<h1> CanadianTruckers (Ctruck) A ESPERA PARA SER VALORIZADA CADA TOKEN=U$2.89,00
+temperatura do ambiente 4ºcent a -40º
+tomara que venham a conseguir esta benção
+<a href="https://i.pinimg.com/originals/4b/4f/e9/4b4fe961740d8ad4c2b8668f5a1b9249.gifg"><img width="500px" height="375" src="https://i.pinimg.com/originals/4b/4f/e9/4b4fe961740d8ad4c2b8668f5a1b9249.gif"></a></p>
+</pre>
 	
 </body></html>
