@@ -88,7 +88,6 @@ tomara que venham a conseguir esta benção
 	<a href="https://i.pinimg.com/originals/44/ed/42/44ed429772f436d061e25e48b69888b8.jpg"><img width="500px" height="375" src="https://i.pinimg.cohttps://i.pinimg.com/originals/44/ed/42/44ed429772f436d061e25e48b69888b8.jpg"></a></p>	
 		
 	
-	</pre><HR>
 	
 	
 https://recentcoin.com/token/canadiantruckers-ctruck-0x6286604f
