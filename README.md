@@ -85,7 +85,7 @@ tomara que venham a conseguir esta benção
 		
 	Todos os tokens ja estão todos aprovados só faltta a liberação nas exchanges
 		
-	<a><a href="https://i.pinimg.com/564x/96/e5/fc/96e5fc5aa7bf27abb15d1e1068d827b2.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/96/e5/fc/96e5fc5aa7bf27abb15d1e1068d827b2.jpg"></a></p>	
+	<a href="https://i.pinimg.com/564x/96/e5/fc/96e5fc5aa7bf27abb15d1e1068d827b2.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/96/e5/fc/96e5fc5aa7bf27abb15d1e1068d827b2.jpg"></a></p>	
 		
 	
 	
