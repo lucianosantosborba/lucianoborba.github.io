@@ -80,15 +80,15 @@ https://www.youtube.com/embed/XnAX3QkHZ64
 temperatura do ambiente 4ºcent a -40º
 tomara que venham a conseguir esta benção
 <a href="https://i.pinimg.com/originals/4b/4f/e9/4b4fe961740d8ad4c2b8668f5a1b9249.gifg"><img width="500px" height="375" src="https://i.pinimg.com/originals/4b/4f/e9/4b4fe961740d8ad4c2b8668f5a1b9249.gif"></a></p>
-</pre><HR>
-	
-		
-	Todos os tokens ja estão todos aprovados só faltta a liberação nas exchanges
-		
-	<a href="https://i.pinimg.com/564x/96/e5/fc/96e5fc5aa7bf27abb15d1e1068d827b2.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/96/e5/fc/96e5fc5aa7bf27abb15d1e1068d827b2.jpg"></a></p>	
+
+	Já estão totalmente valorizados pela rede de valorizações só faltam as exchanges liberarem
 		
 	
+		
+	<a href="https://i.pinimg.com/originals/44/ed/42/44ed429772f436d061e25e48b69888b8.jpg"><img width="500px" height="375" src="https://i.pinimg.cohttps://i.pinimg.com/originals/44/ed/42/44ed429772f436d061e25e48b69888b8.jpg"></a></p>	
+		
 	
+	</pre><HR>
 	
 	
 https://recentcoin.com/token/canadiantruckers-ctruck-0x6286604f
