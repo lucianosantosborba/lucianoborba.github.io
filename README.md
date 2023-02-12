@@ -81,12 +81,14 @@ temperatura do ambiente 4ºcent a -40º
 tomara que venham a conseguir esta benção
 <a href="https://i.pinimg.com/originals/4b/4f/e9/4b4fe961740d8ad4c2b8668f5a1b9249.gifg"><img width="500px" height="375" src="https://i.pinimg.com/originals/4b/4f/e9/4b4fe961740d8ad4c2b8668f5a1b9249.gif"></a></p>
 </pre>
-	<PRE>
-		
+	
 		
 		JÁ  ESTÃO PERFEITAMENTE APROVADOS TODOS OS TOKENS:
 		https://recentcoin.com/token/canadiantruckers-ctruck-0x6286604f
+		<PRE>
 		SÓ FALTAM ALGUMAS EXCHANGES ACEITAREM A VALORIZAÇÃO.
-	<a href="https://i.pinimg.com/originals/44/ed/42/44ed429772f436d061e25e48b69888b8.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/44/ed/42/44ed429772f436d061e25e48b69888b8.jpg"></a></p></PRE>
+	<a href="https://i.pinimg.com/originals/44/ed/42/44ed429772f436d061e25e48b69888b8.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/44/ed/42/44ed429772f436d061e25e48b69888b8.jpg"></a></p>
+	
+	</PRE>
 	
 </body></html>
