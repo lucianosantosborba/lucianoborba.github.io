@@ -58,7 +58,7 @@ https://www.youtube.com/embed/XnAX3QkHZ64
 	
 	
 	
-	Tenham uma ótima semana de descanço e de trabalho,paz e amor!!!!!!!!!	<HR>
+	Tenham uma ótima semana de descanço e de trabalho,paz e amor!!!!!!!!!	
 	
 	
 	
@@ -75,6 +75,6 @@ https://www.youtube.com/embed/XnAX3QkHZ64
 	
 <a href="https://i.pinimg.com/564x/96/e5/fc/96e5fc5aa7bf27abb15d1e1068d827b2.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/20/4c/98/204c98d242aebc11041b0e487014012e.jpg"></a></p>
 	
-		</2>
+<a href="https://i.pinimg.com/564x/96/e5/fc/96e5fc5aa7bf27abb15d1e1068d827b2.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/37/f0/e3/37f0e3a7f7c729e4f7c76689299b391e.jpg"></a></p>		
 	
 </body></html>
