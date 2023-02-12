@@ -93,4 +93,8 @@ tomara que venham a conseguir esta benção
 
 <a href="https://i.pinimg.com/originals/d8/52/58/d8525896d3ae79416d66475b833de3c4.gif"><img width="500px" height="375" src="https://i.pinimg.com/originals/d8/52/58/d8525896d3ae79416d66475b833de3c4.gif"></a></p>
 	
+	<a href="https://recentcoin.com/coin/liebecoin-lbc-0x19d45da4.jpg"><img width="500px" height="375" src="https://recentcoin.com/coin/liebecoin-lbc-0x19d45da4.jpg"></a></p>
+	
+	
+	
 </body></html>
