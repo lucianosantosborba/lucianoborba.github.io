@@ -113,5 +113,17 @@ www.drive.google.com/file/d/1vmu-oWwykAEpTDs7Bpc7iGkRuz85IJx0/view?usp=sharing
 			CAPÃO DA CANOA RS
 			<a href="https://i.pinimg.com/originals/96/19/c6/9619c6b1c513d22fb202f717523966bb.png"><img width="500px" height="375" src="https://i.pinimg.com/originals/96/19/c6/9619c6b1c513d22fb202f717523966bb.png"></a></p>
 		CARNAVAL 2023
+		<h2 class="texto"><p align="center">
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQYrOEZZH7CGJuLucLeP-e-bfch5iFhjrQnw&usqp=CAU"><img width="500px" height="375" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQYrOEZZH7CGJuLucLeP-e-bfch5iFhjrQnw&usqp=CAU"></a></p>
+RUA DA LADEIRA
+			<h2 class="texto"><p align="center">
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCg7wIw1OPxgbGPfxb4CBZvoI7lc8bF6pshf-3IADV5DMhoJKIK8rvLOXc3GTknEoYbYY&usqp=CAU"><img width="500px" height="375" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCg7wIw1OPxgbGPfxb4CBZvoI7lc8bF6pshf-3IADV5DMhoJKIK8rvLOXc3GTknEoYbYY&usqp=CAU"></a></p>
+CENTRO RIO PARDO PREFEITURA MUNICIPAL
+				<a href="https://i.pinimg.com/originals/9c/ad/b8/9cadb89a2d41cca6a49c2f6bacdaf354.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/9c/ad/b8/9cadb89a2d41cca6a49c2f6bacdaf354.jpg"></a></p>
+			PRAIA DOS INGAZEIROS
+			<a href="https://www.google.com/search?q=PORTO+FERREIAR+RIO+PARDO&tbm=isch&ved=2ahUKEwiolebWy5P9AhVUNTUKHa7DAX0Q2-cCegQIABAA&oq=PORTO+FERREIAR+RIO+PARDO&gs_lcp=CgNpbWcQAzoECAAQHjoHCAAQgAQQGDoECAAQQzoFCAAQgAQ6CAgAEIAEELEDOgcIABCxAxBDOgkIABCABBAKEBhQ8ApYmDNg91poAHAAeACAAfIIiAGIXpIBDTItMi4zLjIuNC41LjOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=pr_qY6iqG9Tq1AGuh4foBw#imgrc=93h2RhI3zMNeyM"><img width="500px" height="375" src="https://www.google.com/search?q=PORTO+FERREIAR+RIO+PARDO&tbm=isch&ved=2ahUKEwiolebWy5P9AhVUNTUKHa7DAX0Q2-cCegQIABAA&oq=PORTO+FERREIAR+RIO+PARDO&gs_lcp=CgNpbWcQAzoECAAQHjoHCAAQgAQQGDoECAAQQzoFCAAQgAQ6CAgAEIAEELEDOgcIABCxAxBDOgkIABCABBAKEBhQ8ApYmDNg91poAHAAeACAAfIIiAGIXpIBDTItMi4zLjIuNC41LjOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=pr_qY6iqG9Tq1AGuh4foBw#imgrc=93h2RhI3zMNeyM"></a></p>
+		BALNEARIO PORTO FERREIRA
+		<a href="https://www.riopardo.rs.gov.br/fotos/ede5fec3b62dc252e2f45ef14ffa188d.jpg"><img width="500px" height="375" src="https://www.riopardo.rs.gov.br/fotos/ede5fec3b62dc252e2f45ef14ffa188d.jpg"></a></p>
+		ALDEIA SÃO NICOLAU IGREJA		
 
 </body></html>
