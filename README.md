@@ -122,8 +122,8 @@ RUA DA LADEIRA E PREFEITURA MUNICIPAL
 				<a href="https://i.pinimg.com/originals/9c/ad/b8/9cadb89a2d41cca6a49c2f6bacdaf354.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/9c/ad/b8/9cadb89a2d41cca6a49c2f6bacdaf354.jpg"></a></p>
 			BALNEARIO PORTO FERREIRA
 			<a href="https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/247726918_3015364438723595_5740144707535582674_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=AHgURdfdrlMAX9gzRHA&_nc_ht=scontent-gru2-2.xx&oh=00_AfCs8reJGHB_sVDoP2lo22n9j_D_KneMPjXpcX06_ofdVQ&oe=63F09FE8"><img width="500px" height="375" src="https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/247726918_3015364438723595_5740144707535582674_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=AHgURdfdrlMAX9gzRHA&_nc_ht=scontent-gru2-2.xx&oh=00_AfCs8reJGHB_sVDoP2lo22n9j_D_KneMPjXpcX06_ofdVQ&oe=63F09FE8"></a></p>
-		BALNEARIO PORTO FERREIRA
+		ALDEIA SÃO NICOLAU IGREJA ONDE ACONTE QUERMECES CATOLICS
 		<a href="https://www.riopardo.rs.gov.br/fotos/ede5fec3b62dc252e2f45ef14ffa188d.jpg"><img width="500px" height="375" src="https://www.riopardo.rs.gov.br/fotos/ede5fec3b62dc252e2f45ef14ffa188d.jpg"></a></p>
-		ALDEIA SÃO NICOLAU IGREJA		
+				
 
 </body></html>
