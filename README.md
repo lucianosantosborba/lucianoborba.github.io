@@ -105,4 +105,13 @@ tomara que venham a conseguir esta benção
 	
 www.drive.google.com/file/d/1vmu-oWwykAEpTDs7Bpc7iGkRuz85IJx0/view?usp=sharing
 	www.drive.google.com/drive/folders/1Iqiqs102GttBdb9nUIsct0B0-cjXmVy8?usp=sharing
+	<h2 class="texto"><p align="center">
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMtuKT3rcOdS4r5MZwYjFRq9bkTvO3zSUkMA&usqp=CAU"><img width="500px" height="375" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMtuKT3rcOdS4r5MZwYjFRq9bkTvO3zSUkMA&usqp=CAU"></a></p>
+		RIO PARDO RS
+		<h2 class="texto"><p align="center">
+<a href="https://i.pinimg.com/originals/bb/b0/df/bbb0df4c883dc5d0f761ccb7c0835efa.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/bb/b0/df/bbb0df4c883dc5d0f761ccb7c0835efa.jpg"></a></p>
+			CAPÃO DA CANOA RS
+			<a href="https://i.pinimg.com/originals/96/19/c6/9619c6b1c513d22fb202f717523966bb.png"><img width="500px" height="375" src="https://i.pinimg.com/originals/96/19/c6/9619c6b1c513d22fb202f717523966bb.png"></a></p>
+		CARNAVAL 2023
+
 </body></html>
