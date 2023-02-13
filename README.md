@@ -115,13 +115,13 @@ www.drive.google.com/file/d/1vmu-oWwykAEpTDs7Bpc7iGkRuz85IJx0/view?usp=sharing
 		CARNAVAL 2023
 		<h2 class="texto"><p align="center">
 <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQYrOEZZH7CGJuLucLeP-e-bfch5iFhjrQnw&usqp=CAU"><img width="500px" height="375" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQYrOEZZH7CGJuLucLeP-e-bfch5iFhjrQnw&usqp=CAU"></a></p>
-RUA DA LADEIRA
+RUA DA LADEIRA E PREFEITURA MUNICIPAL
 			<h2 class="texto"><p align="center">
 <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCg7wIw1OPxgbGPfxb4CBZvoI7lc8bF6pshf-3IADV5DMhoJKIK8rvLOXc3GTknEoYbYY&usqp=CAU"><img width="500px" height="375" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCg7wIw1OPxgbGPfxb4CBZvoI7lc8bF6pshf-3IADV5DMhoJKIK8rvLOXc3GTknEoYbYY&usqp=CAU"></a></p>
-CENTRO RIO PARDO PREFEITURA MUNICIPAL
+				PRAIA DOS INGAZEIROS
 				<a href="https://i.pinimg.com/originals/9c/ad/b8/9cadb89a2d41cca6a49c2f6bacdaf354.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/9c/ad/b8/9cadb89a2d41cca6a49c2f6bacdaf354.jpg"></a></p>
-			PRAIA DOS INGAZEIROS
-			<a href="https://www.google.com/search?q=PORTO+FERREIAR+RIO+PARDO&tbm=isch&ved=2ahUKEwiolebWy5P9AhVUNTUKHa7DAX0Q2-cCegQIABAA&oq=PORTO+FERREIAR+RIO+PARDO&gs_lcp=CgNpbWcQAzoECAAQHjoHCAAQgAQQGDoECAAQQzoFCAAQgAQ6CAgAEIAEELEDOgcIABCxAxBDOgkIABCABBAKEBhQ8ApYmDNg91poAHAAeACAAfIIiAGIXpIBDTItMi4zLjIuNC41LjOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=pr_qY6iqG9Tq1AGuh4foBw#imgrc=93h2RhI3zMNeyM"><img width="500px" height="375" src="https://www.google.com/search?q=PORTO+FERREIAR+RIO+PARDO&tbm=isch&ved=2ahUKEwiolebWy5P9AhVUNTUKHa7DAX0Q2-cCegQIABAA&oq=PORTO+FERREIAR+RIO+PARDO&gs_lcp=CgNpbWcQAzoECAAQHjoHCAAQgAQQGDoECAAQQzoFCAAQgAQ6CAgAEIAEELEDOgcIABCxAxBDOgkIABCABBAKEBhQ8ApYmDNg91poAHAAeACAAfIIiAGIXpIBDTItMi4zLjIuNC41LjOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=pr_qY6iqG9Tq1AGuh4foBw#imgrc=93h2RhI3zMNeyM"></a></p>
+			BALNEARIO PORTO FERREIRA
+			<a href="https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/247726918_3015364438723595_5740144707535582674_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=AHgURdfdrlMAX9gzRHA&_nc_ht=scontent-gru2-2.xx&oh=00_AfCs8reJGHB_sVDoP2lo22n9j_D_KneMPjXpcX06_ofdVQ&oe=63F09FE8"><img width="500px" height="375" src="https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/247726918_3015364438723595_5740144707535582674_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=AHgURdfdrlMAX9gzRHA&_nc_ht=scontent-gru2-2.xx&oh=00_AfCs8reJGHB_sVDoP2lo22n9j_D_KneMPjXpcX06_ofdVQ&oe=63F09FE8"></a></p>
 		BALNEARIO PORTO FERREIRA
 		<a href="https://www.riopardo.rs.gov.br/fotos/ede5fec3b62dc252e2f45ef14ffa188d.jpg"><img width="500px" height="375" src="https://www.riopardo.rs.gov.br/fotos/ede5fec3b62dc252e2f45ef14ffa188d.jpg"></a></p>
 		ALDEIA SÃO NICOLAU IGREJA		
