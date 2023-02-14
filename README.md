@@ -168,7 +168,7 @@ LOGOS ASSEMBLEIA DE DEUS, ,FLOR DE LIZ ESCOTISMO IN WORLD
 <h2 class="texto"><p align="center">
 <a href="https://i.pinimg.com/564x/2f/a4/ec/2fa4ec5db7dd51fee387c63ec3596b37.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/2f/a4/ec/2fa4ec5db7dd51fee387c63ec3596b37.jpg"></a></p>
 	
-	QUE DEUS ABENÇOE AMÉM QUE DEUS PROTEJA  TODOS OS NOSSOS CAMINHOS AMÉM QUE DEUS NOS PROSPERE PROSPERE , AMÉM!!!!!
+	QUE DEUS ABENÇOE AMÉM QUE DEUS PROTEJA  TODOS OS NOSSOS CAMINHOS AMÉM QUE DEUS NOS PROSPERE PROSPERE ,E SEMPRE NOS DE SAUDE AMÉM!!!!!
 
 GM:6;8;9;2;3;6
 
