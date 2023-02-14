@@ -153,10 +153,15 @@ IGREJA MATRIZ
 <a href="https://i.pinimg.com/564x/24/02/c3/2402c341d1dc887573a49fc3ba855c89.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/24/02/c3/2402c341d1dc887573a49fc3ba855c89.jpg"></a></p>
 ESCOLA FORTALEZA
 <a href="https://i.pinimg.com/564x/2a/42/36/2a42368b10ddfe9a5090c828829538dc.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/2a/42/36/2a42368b10ddfe9a5090c828829538dc.jpg"></a></p>
-ESCOLA AMARAL LISBOA
-<a href="https://i.pinimg.com/564x/24/02/c3/2402c341d1dc887573a49fc3ba855c89.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/24/02/c3/2402c341d1dc887573a49fc3ba855c89.jpg"></a></p>
 ESCOLA PEDRO BORBA
+<a href="https://i.pinimg.com/564x/87/b1/e8/87b1e82ccf8deb44271527148895fd37.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/87/b1/e8/87b1e82ccf8deb44271527148895fd37.jpg"></a></p>
+ESCOLA AMARAL LISBOA
 <a href="https://i.pinimg.com/564x/d6/77/5f/d6775ff0e20680364fe2924f20605ea5.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/d6/77/5f/d6775ff0e20680364fe2924f20605ea5.jpg"></a></p>
+GUERINÃO
+<a href="https://i.pinimg.com/564x/34/a0/52/34a052e8c4095cfc22b0a30bd2de9a1e.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/34/a0/52/34a052e8c4095cfc22b0a30bd2de9a1e.jpg"></a></p>
+ESCOLA BARRO VERMELHO
+<a href="https://i.pinimg.com/564x/9c/08/ef/9c08ef3ce502418025d036441282c2a1.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/9c/08/ef/9c08ef3ce502418025d036441282c2a1.jpg"></a></p>
+
 GM:6;8;9;2;3;6
 
 </body></html>
