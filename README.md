@@ -151,6 +151,12 @@ IGREJA DE BAJÉ
 <a href="https://i.pinimg.com/564x/82/94/95/829495012609204a120cc97f83b80481.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/82/94/95/829495012609204a120cc97f83b80481.jpg"></a></p>
 IGREJA MATRIZ
 <a href="https://i.pinimg.com/564x/24/02/c3/2402c341d1dc887573a49fc3ba855c89.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/24/02/c3/2402c341d1dc887573a49fc3ba855c89.jpg"></a></p>
+ESCOLA FORTALEZA
+<a href="https://i.pinimg.com/564x/2a/42/36/2a42368b10ddfe9a5090c828829538dc.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/2a/42/36/2a42368b10ddfe9a5090c828829538dc.jpg"></a></p>
+ESCOLA AMARAL LISBOA
+<a href="https://i.pinimg.com/564x/24/02/c3/2402c341d1dc887573a49fc3ba855c89.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/24/02/c3/2402c341d1dc887573a49fc3ba855c89.jpg"></a></p>
+ESCOLA PEDRO BORBA
+<a href="https://i.pinimg.com/564x/d6/77/5f/d6775ff0e20680364fe2924f20605ea5.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/d6/77/5f/d6775ff0e20680364fe2924f20605ea5.jpg"></a></p>
 GM:6;8;9;2;3;6
 
 </body></html>
