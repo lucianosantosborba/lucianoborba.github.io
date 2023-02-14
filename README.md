@@ -176,22 +176,29 @@ GM:6;8;9;2;3;6
 <marquee>Salmos 23 
 1 O SENHOR é o meu pastor, nada me faltará.
 
-2 Deitar-me faz em verdes pastos, guia-me mansamente a águas tranqüilas.
+2 Deitar-me faz em verdes pastos, 
+guia-me mansamente a águas tranqüilas.
 
-3 Refrigera a minha alma; guia-me pelas veredas da justiça, por amor do seu nome.
+3 Refrigera a minha alma; guia-me pelas veredas da justiça,
+por amor do seu nome.
 
-4 Ainda que eu andasse pelo vale da sombra da morte, não temeria mal algum,
+4 Ainda que eu andasse pelo vale da sombra da morte,
+não temeria mal algum,
 porque tu estás comigo; a tua vara e o teu cajado me consolam.
 
-5 Preparas uma mesa perante mim na presença dos meus inimigos, unges a minha cabeça com óleo, 
+5 Preparas uma mesa perante mim na presença dos meus inimigos,
+unges a minha cabeça com óleo, 
 o meu cálice transborda.
 
-6 Certamente que a bondade e a misericórdia me seguirão todos os dias da minha vida;
+6 Certamente que a bondade e a misericórdia 
+me seguirão todos os dias da minha vida;
 e habitarei na casa do Senhor por longos dias.</marquee>
 </pre>
 </h2>
 
 <p>Que o amor seja feito de paz 
 e respeito</p></section>
-
+<h2 class="texto"><p align="center">
+	SEMPRE ALERTA
+<a href="https://i.pinimg.com/564x/87/b2/46/87b24681e4a39f9a0dea39a939189968.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/87/b2/46/87b24681e4a39f9a0dea39a939189968.jpg"></a></p>
 </body></html>
