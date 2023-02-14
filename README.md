@@ -161,6 +161,17 @@ GUERINÃO
 <a href="https://i.pinimg.com/564x/34/a0/52/34a052e8c4095cfc22b0a30bd2de9a1e.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/34/a0/52/34a052e8c4095cfc22b0a30bd2de9a1e.jpg"></a></p>
 ESCOLA BARRO VERMELHO
 <a href="https://i.pinimg.com/564x/9c/08/ef/9c08ef3ce502418025d036441282c2a1.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/9c/08/ef/9c08ef3ce502418025d036441282c2a1.jpg"></a></p>
+LOGOS ASSEMBLEIA DE DEUS, ,FLOR DE LIZ ESCOTISMO IN WORLD
+<h2 class="texto"><p align="center">
+<a href="https://i.pinimg.com/564x/be/60/e0/be60e09e95a4acbdfe477d05453748b8.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/be/60/e0/be60e09e95a4acbdfe477d05453748b8.jpg"></a></p>
+	
+<h2 class="texto"><p align="center">
+<a href="https://i.pinimg.com/564x/2f/a4/ec/2fa4ec5db7dd51fee387c63ec3596b37.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/2f/a4/ec/2fa4ec5db7dd51fee387c63ec3596b37.jpg"></a></p>
+	
+	
+<h2 class="texto"><p align="center">
+<a href="https://i.pinimg.com/564x/96/e5/fc/96e5fc5aa7bf27abb15d1e1068d827b2.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/96/e5/fc/96e5fc5aa7bf27abb15d1e1068d827b2.jpg"></a></p>
+
 
 GM:6;8;9;2;3;6
 
