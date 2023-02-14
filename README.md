@@ -124,6 +124,24 @@ RUA DA LADEIRA E PREFEITURA MUNICIPAL
 			<a href="https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/247726918_3015364438723595_5740144707535582674_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=AHgURdfdrlMAX9gzRHA&_nc_ht=scontent-gru2-2.xx&oh=00_AfCs8reJGHB_sVDoP2lo22n9j_D_KneMPjXpcX06_ofdVQ&oe=63F09FE8"><img width="500px" height="375" src="https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/247726918_3015364438723595_5740144707535582674_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=AHgURdfdrlMAX9gzRHA&_nc_ht=scontent-gru2-2.xx&oh=00_AfCs8reJGHB_sVDoP2lo22n9j_D_KneMPjXpcX06_ofdVQ&oe=63F09FE8"></a></p>
 		ALDEIA SÃO NICOLAU IGREJA ONDE ACONTE QUERMECES CATOLICS
 		<a href="https://www.riopardo.rs.gov.br/fotos/ede5fec3b62dc252e2f45ef14ffa188d.jpg"><img width="500px" height="375" src="https://www.riopardo.rs.gov.br/fotos/ede5fec3b62dc252e2f45ef14ffa188d.jpg"></a></p>
-				
+				RUA GENERAL OSORIO 
+				<h2 class="texto"><p align="center">
+<a href="https://i.pinimg.com/originals/60/0b/b9/600bb9706d245e73bdc9ae52fac89b2b.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/60/0b/b9/600bb9706d245e73bdc9ae52fac89b2b.jpg"></a></p>
+	RAU PRUDENTINA DE OLIVEIRA
+<a href="https://i.pinimg.com/originals/bd/48/ac/bd48acafbfa0e72a0a2efcdd5d7270cc.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/bd/48/ac/bd48acafbfa0e72a0a2efcdd5d7270cc.jpg"></a></p>
+RUA GERAL OSORIO 2
+<a href="https://i.pinimg.com/originals/b7/02/dc/b702dc4127886711c5e814528fbe444c.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/b7/02/dc/b702dc4127886711c5e814528fbe444c.jpg"></a></p>
+PRAÇA DA MATRIZ
+<a href="https://i.pinimg.com/originals/04/0b/5e/040b5e283da3474999e93ca6002589f7.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/04/0b/5e/040b5e283da3474999e93ca6002589f7.jpg"></a></p>
+LUGAR ESPECIAL
+<a href="https://i.pinimg.com/564x/c7/fd/50/c7fd50340fa4b3a09738c1c336fd5bc6.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/c7/fd/50/c7fd50340fa4b3a09738c1c336fd5bc6.jpg"></a></p>
+PONTE NOVA E PONTE VELHA E PONTE DOS TRENS
+<a href="https://i.pinimg.com/564x/22/be/a5/22bea58bc21aaf468b99d71aea9836a3.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/22/be/a5/22bea58bc21aaf468b99d71aea9836a3.jpg"></a></p>
+
+<a href="https://i.pinimg.com/564x/96/4c/78/964c782c40107ed92d6111c092e0759d.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/96/4c/78/964c782c40107ed92d6111c092e0759d.jpg"></a></p>
+
+<a href="https://i.pinimg.com/236x/f2/a4/00/f2a400689b8df6f48bd6ec30e145dd30.jpg"><img width="500px" height="375" src="https://i.pinimg.com/236x/f2/a4/00/f2a400689b8df6f48bd6ec30e145dd30.jpg"></a></p>
+PRAÇA SANTO ANGELO
+<a href="https://i.pinimg.com/564x/10/8c/4d/108c4d036a81ffe045f18527877aa548.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/10/8c/4d/108c4d036a81ffe045f18527877aa548.jpg"></a></p>
 
 </body></html>
