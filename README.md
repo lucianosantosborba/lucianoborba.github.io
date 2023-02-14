@@ -127,7 +127,7 @@ RUA DA LADEIRA E PREFEITURA MUNICIPAL
 				RUA GENERAL OSORIO 
 				<h2 class="texto"><p align="center">
 <a href="https://i.pinimg.com/originals/60/0b/b9/600bb9706d245e73bdc9ae52fac89b2b.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/60/0b/b9/600bb9706d245e73bdc9ae52fac89b2b.jpg"></a></p>
-	RAU PRUDENTINA DE OLIVEIRA
+	RUA PRUDENTINA DE OLIVEIRA
 <a href="https://i.pinimg.com/originals/bd/48/ac/bd48acafbfa0e72a0a2efcdd5d7270cc.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/bd/48/ac/bd48acafbfa0e72a0a2efcdd5d7270cc.jpg"></a></p>
 RUA GERAL OSORIO 2
 <a href="https://i.pinimg.com/originals/b7/02/dc/b702dc4127886711c5e814528fbe444c.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/b7/02/dc/b702dc4127886711c5e814528fbe444c.jpg"></a></p>
@@ -143,5 +143,14 @@ PONTE NOVA E PONTE VELHA E PONTE DOS TRENS
 <a href="https://i.pinimg.com/236x/f2/a4/00/f2a400689b8df6f48bd6ec30e145dd30.jpg"><img width="500px" height="375" src="https://i.pinimg.com/236x/f2/a4/00/f2a400689b8df6f48bd6ec30e145dd30.jpg"></a></p>
 PRAÇA SANTO ANGELO
 <a href="https://i.pinimg.com/564x/10/8c/4d/108c4d036a81ffe045f18527877aa548.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/10/8c/4d/108c4d036a81ffe045f18527877aa548.jpg"></a></p>
+MUSEU BARÃO DE SANTO ANGELO
+<a href="https://i.pinimg.com/564x/ce/8e/0d/ce8e0d8a0fde3bd0878ecc795b92c3e6.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/ce/8e/0d/ce8e0d8a0fde3bd0878ecc795b92c3e6.jpg"></a></p>
+GIF CAPOEIRA
+<a href="https://i.pinimg.com/564x/b6/74/30/b6743015814d301dce6984b8ef93c9bb.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/b6/74/30/b6743015814d301dce6984b8ef93c9bb.jpg"></a></p>
+IGREJA DE BAJÉ
+<a href="https://i.pinimg.com/564x/82/94/95/829495012609204a120cc97f83b80481.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/82/94/95/829495012609204a120cc97f83b80481.jpg"></a></p>
+IGREJA MATRIZ
+<a href="https://i.pinimg.com/564x/24/02/c3/2402c341d1dc887573a49fc3ba855c89.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/24/02/c3/2402c341d1dc887573a49fc3ba855c89.jpg"></a></p>
+GM:6;8;9;2;3;6
 
 </body></html>
