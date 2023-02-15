@@ -205,10 +205,5 @@ e respeito</p></section>
         www.drive.google.com/file/d/11ZMMNkouMaGPI_wve4FII4Z5vD7cY5Fp/view?usp=sharing
 	
 
-	ouro
-<a href="https://i.pinimg.com/564x/71/6c/7b/716c7b47862c91097b12e974ef1c344e.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/71/6c/7b/716c7b47862c91097b12e974ef1c344e.jpg"></a></p>
-	<a href="https://i.pinimg.com/564x/87/b5/fe/87b5fe4db212fa154f2ca75744985dcc.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/87/b5/fe/87b5fe4db212fa154f2ca75744985dcc.jpg"></a></p></center>
-	diamonds
-	<a href="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2015_12/938491/150319-graff_1028.jpg"><img width="500px" height="375" src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2015_12/938491/150319-graff_1028.jpg"></a></p></center>
-	<a href="https://i.pinimg.com/736x/3b/14/16/3b1416b3d902250601043b92a3bc3ecd--high-jewelry-jewelry-box.jpg"><img width="500px" height="375" src="https://i.pinimg.com/736x/3b/14/16/3b1416b3d902250601043b92a3bc3ecd--high-jewelry-jewelry-box.jpg"></a></p></center>
+	
 </body></html>
