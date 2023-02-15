@@ -203,6 +203,11 @@ e respeito</p></section>
 <a href="https://i.pinimg.com/564x/87/b2/46/87b24681e4a39f9a0dea39a939189968.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/87/b2/46/87b24681e4a39f9a0dea39a939189968.jpg"></a></p>
 	www.drive.google.com/file/d/1P126SiDeN4XWMJwavXgYeLb_XNlovBNn/view?usp=sharing
         www.drive.google.com/file/d/11ZMMNkouMaGPI_wve4FII4Z5vD7cY5Fp/view?usp=sharing
+	<pre>historia do escotismo
+	O Movimento Escoteiro foi fundado em 1907 por Robert Baden-Powell,
+	na Inglaterra. Baden-Powell aproveitou os elementos positivos de camaradagem, 
+	iniciativa, coragem e autodisciplina presentes na sua vida militar, 
+	bem como técnicas que seriam úteis no desenvolvimento dos jovens para criar um novo movimento educacional.</pre>
 	
 
 	PARK AQUATICS
