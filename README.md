@@ -199,12 +199,13 @@ e habitarei na casa do Senhor por longos dias.</marquee>
 <p>Que o amor seja feito de paz 
 e respeito</p></section>
 <h2 class="texto"><p align="center">
-	SEMPRE ALERTA
+	<center>SEMPRE ALERTA
 <a href="https://i.pinimg.com/564x/87/b2/46/87b24681e4a39f9a0dea39a939189968.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/87/b2/46/87b24681e4a39f9a0dea39a939189968.jpg"></a></p>
 	www.drive.google.com/file/d/1P126SiDeN4XWMJwavXgYeLb_XNlovBNn/view?usp=sharing
         www.drive.google.com/file/d/11ZMMNkouMaGPI_wve4FII4Z5vD7cY5Fp/view?usp=sharing
 	
-	
+	<a href="https://i.pinimg.com/564x/87/b5/fe/87b5fe4db212fa154f2ca75744985dcc.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/87/b2/46/87b24681e4a39f9a0dea39a939189968.jpg"></a></p>
 	ouro
 <a href="https://i.pinimg.com/564x/71/6c/7b/716c7b47862c91097b12e974ef1c344e.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/71/6c/7b/716c7b47862c91097b12e974ef1c344e.jpg"></a></p>
+	<a href="https://i.pinimg.com/564x/87/b5/fe/87b5fe4db212fa154f2ca75744985dcc.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/87/b5/fe/87b5fe4db212fa154f2ca75744985dcc.jpg"></a></p></center>
 </body></html>
