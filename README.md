@@ -222,8 +222,8 @@ e respeito</p></section>
 	
 	<h2 class="texto"><p align="center">
 <a href="https://c8y3s8d4.stackpathcdn.com/wp-content/uploads/2015/06/vista-universal-studios-orlando.png"><img width="500px" height="375" src="https://c8y3s8d4.stackpathcdn.com/wp-content/uploads/2015/06/vista-universal-studios-orlando.png"></a></p>
+		<h2 class="texto"><p align="center">
+<a href="https://www.ajanelalaranja.com/wp-content/uploads/2020/10/Montanha-russa-mais-rapida-01_Universal-Orlando-Resort-Reveals-New-Jurassic-World-VelociCoaster.jpg"><img width="500px" height="375" src="https://www.ajanelalaranja.com/wp-content/uploads/2020/10/Montanha-russa-mais-rapida-01_Universal-Orlando-Resort-Reveals-New-Jurassic-World-VelociCoaster.jpg"></a></p>
 		
-	<h2 class="texto"><p align="center">
-<a href="https://www.ajanelalaranja.com/wp-content/uploads/2020/10/Montanha-russa-mais-rapida-01_Universal-Orlando-Resort-Reveals-New-Jurassic-World-VelociCoaster.jpg"><img width="500px" height="375" src="https://c8y3s8d4.stackpathcdn.com/wp-content/uploads/2015/06/vista-universal-studios-orlando.pnghttps://www.ajanelalaranja.com/wp-content/uploads/2020/10/Montanha-russa-mais-rapida-01_Universal-Orlando-Resort-Reveals-New-Jurassic-World-VelociCoaster.jpg></a></p>
 	
 </body></html>
