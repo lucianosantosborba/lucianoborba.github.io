@@ -32,7 +32,7 @@
 		<center><img src="https://img1.picmix.com/output/pic/normal/1/5/2/9/5909251_783a5.gif"></center>
 </h2>
 	
-<CENTER><h1>LUCIANO DE BOA</H1></CENTER>:-))))   '''!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!:-)))
+<CENTER><h1>LIEBE COIN DESEJA BOAS FESTAS E FELIZ ANO NOVO</H1></CENTER>:-))))   '''!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!:-)))
 
 
 <link>https://bscscan.com/token/0x19d45da4c5fb97c2ed80e48507f6bab162b54b08</link>
@@ -82,7 +82,7 @@ tomara que venham a conseguir esta benção
 <a href="https://i.pinimg.com/originals/4b/4f/e9/4b4fe961740d8ad4c2b8668f5a1b9249.gifg"><img width="500px" height="375" src="https://i.pinimg.com/originals/4b/4f/e9/4b4fe961740d8ad4c2b8668f5a1b9249.gif"></a></p>
 
 	Já estão totalmente valorizados pela rede de valorizações só faltam
-	(https://recentcoin.com/token/canadiantruckers-ctruck-0x6286604f)
+	
 	as exchanges liberarem
 		
 	
@@ -205,5 +205,8 @@ e respeito</p></section>
         www.drive.google.com/file/d/11ZMMNkouMaGPI_wve4FII4Z5vD7cY5Fp/view?usp=sharing
 	
 
-	
+	PARK AQUATICS
+	<a href="https://img-aws.ehowcdn.com/700x/www.onlyinyourstate.com/wp-content/uploads/2016/05/12492039_910543395697352_7375667701803097262_o.jpg"><img width="500px" height="375" src="https://img-aws.ehowcdn.com/700x/www.onlyinyourstate.com/wp-content/uploads/2016/05/12492039_910543395697352_7375667701803097262_o.jpg"></a></p>
+	PARK AQUATIC
+	<a href="https://i.pinimg.com/564x/87/b2/46/87b24681e4a39f9a0dea39a939189968.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/87/b2/46/87b24681e4a39f9a0dea39a939189968.jpg"></a></p>
 </body></html>
