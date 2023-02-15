@@ -212,9 +212,11 @@ e respeito</p></section>
 
 	PARK AQUATICS
 	<h2 class="texto"><p align="center">
-	<a href="https://img-aws.ehowcdn.com/700x/www.onlyinyourstate.com/wp-content/uploads/2016/05/12492039_910543395697352_7375667701803097262_o.jpg"><img width="500px" height="375" src="https://img-aws.ehowcdn.com/700x/www.onlyinyourstate.com/wp-content/uploads/2016/05/12492039_910543395697352_7375667701803097262_o.jpg"></a></p>
+<a href="https://img-aws.ehowcdn.com/700x/www.onlyinyourstate.com/wp-content/uploads/2016/05/12492039_910543395697352_7375667701803097262_o.jpg"><img width="500px" height="375" src="https://img-aws.ehowcdn.com/700x/www.onlyinyourstate.com/wp-content/uploads/2016/05/12492039_910543395697352_7375667701803097262_o.jpg"></a></p>
+
 	
-	PARK AQUATIC
+	
+	
 		<h2 class="texto"><p align="center">
 	<a href="https://media.cnn.com/api/v1/images/stellar/prod/130730155036-water-parks-world-waterpark.jpg?q=w_1435,h_816,x_0,y_0,c_fill/w_1280"><img width="500px" height="375" src="https://media.cnn.com/api/v1/images/stellar/prod/130730155036-water-parks-world-waterpark.jpg?q=w_1435,h_816,x_0,y_0,c_fill/w_1280"></a></p>
 </body></html>
