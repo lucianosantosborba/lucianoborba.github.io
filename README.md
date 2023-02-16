@@ -222,8 +222,11 @@ e respeito</p></section>
 	
 	<h2 class="texto"><p align="center">
 <a href="https://c8y3s8d4.stackpathcdn.com/wp-content/uploads/2015/06/vista-universal-studios-orlando.png"><img width="500px" height="375" src="https://c8y3s8d4.stackpathcdn.com/wp-content/uploads/2015/06/vista-universal-studios-orlando.png"></a></p>
+		PREDIOS
 		<h2 class="texto"><p align="center">
-<a href="https://www.ajanelalaranja.com/wp-content/uploads/2020/10/Montanha-russa-mais-rapida-01_Universal-Orlando-Resort-Reveals-New-Jurassic-World-VelociCoaster.jpg"><img width="500px" height="375" src="https://www.ajanelalaranja.com/wp-content/uploads/2020/10/Montanha-russa-mais-rapida-01_Universal-Orlando-Resort-Reveals-New-Jurassic-World-VelociCoaster.jpg"></a></p>
-		
+<a href="https://i.pinimg.com/564x/8a/31/7e/8a317e1d2b146b4f208492b688e488ef.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/8a/31/7e/8a317e1d2b146b4f208492b688e488ef.jpg"></a></p>
+		<h2 class="texto"><p align="center">
+<a href="https://i.pinimg.com/236x/9f/d3/20/9fd320bb9df4a12dd0b102003f53767c.jpg"><img width="500px" height="375" src="https://i.pinimg.com/236x/9f/d3/20/9fd320bb9df4a12dd0b102003f53767c.jpg"></a></p>
+			
 	
 </body></html>
