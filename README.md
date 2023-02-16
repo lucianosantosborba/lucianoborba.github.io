@@ -101,7 +101,7 @@ tomara que venham a conseguir esta benção
 
 		
 		
-		apostilas senai gratuitas
+		apostilas de ensino tecnico gratuitas
 	
 www.drive.google.com/file/d/1vmu-oWwykAEpTDs7Bpc7iGkRuz85IJx0/view?usp=sharing
 	www.drive.google.com/drive/folders/1Iqiqs102GttBdb9nUIsct0B0-cjXmVy8?usp=sharing
@@ -229,6 +229,8 @@ e respeito</p></section>
 <a href="https://i.pinimg.com/236x/9f/d3/20/9fd320bb9df4a12dd0b102003f53767c.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/03/e2/26/03e2268e124101d622d3ba52c21db2fa.jpg"></a></p>
 			<h2 class="texto"><p align="center">
 <a href="https://i.pinimg.com/564x/7e/2e/a7/7e2ea73d61946c05ba759f2250a4f62a.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/7e/2e/a7/7e2ea73d61946c05ba759f2250a4f62a.jpg"></a></p>
-			
+	APOSTILAS DE FILOSOFIA
+				<a href="https://i.blogs.es/0806ff/41266375190_48be9d8365_k/450_1000.jpg"><img width="500px" height="375" src="https://i.blogs.es/0806ff/41266375190_48be9d8365_k/450_1000.jpg"></a></p>
+				www.drive.google.com/drive/folders/0B1nwmMm5MT79WGhzaldYNUhTRmM?resourcekey=0-kEjk3YJZPJyI-GoniS8lkA&usp=share_link
 	
 </body></html>
