@@ -1,12 +1,12 @@
 
-<DOCTYPE html><html><head><title>page and luciano</title>
+<DOCTYPE html><html><head>
 	link rel="stylesheet" type="text/css"><meta charset="utf-8">
 
 
 
 
 </head>
-<body bgcolor="a1d2s3f">
+<body bgcolor="#a1d2s3f">
 
 
 
