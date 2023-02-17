@@ -238,6 +238,6 @@ e respeito</p></section>
 				www.drive.google.com/file/d/12pI5H2fr1ed8rOMlMquME3VmxjfytnPx/view?usp=sharing
 				luciano
 				<h2 class="texto"><p align="center">
-<a href="https://i.pinimg.com/originals/71/1e/6b/711e6badf54d20fa49f9f897cd340124.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/71/1e/6b/711e6badf54d20fa49f9f897cd340124.jpg"></a></p>
+<a href="https://i.pinimg.com/originals/71/1e/6b/711e6badf54d20fa49f9f897cd340124.jpg"><img width="375px" height="375" src="https://i.pinimg.com/originals/71/1e/6b/711e6badf54d20fa49f9f897cd340124.jpg"></a></p>
 
 </body></html>
