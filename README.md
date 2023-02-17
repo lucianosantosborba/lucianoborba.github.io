@@ -1,11 +1,11 @@
 
 <DOCTYPE html><html><head>
 	<link rel="stylesheet" type="text/css">
-
+<style>
 
 body{background:https://i.pinimg.com/originals/22/ca/66/22ca66e40b15607de0455f31f8d41e11.gif ;}
 
-	
+	</style>
 
 
 
@@ -235,7 +235,7 @@ e respeito</p></section>
 		gramatica inglesa	
 			
 			
-			<h2 class="texto"><p align="center">
+			
 <a href="https://www.gifservice.fr/img/gif-vignette-small/b8b5502b36806183193f36b9124385ba/239557-nombre-mensajes-mensajes-ingles-come-on-usa-map-flag.gif"><img width="500px" height="375" src="https://1.bp.blogspot.com/-OoiMW-LZNbQ/Xp5CleGdbBI/AAAAAAAANTE/CKEWPnagteUJjzUz3htuKykhvDvb2YsxACLcBGAsYHQ/s1600/inglesa.gif"></a></p>
 				
 	
