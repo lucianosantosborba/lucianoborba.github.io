@@ -1,16 +1,12 @@
 
 <DOCTYPE html><html><head><title>page and luciano</title>
 	link rel="stylesheet" type="text/css"><meta charset="utf-8">
-<style>
 
-body{background:https://i.pinimg.com/originals/22/ca/66/22ca66e40b15607de0455f31f8d41e11.gif ;}
-
-	</style>
 
 
 
 </head>
-<body background="https://i.pinimg.com/originals/22/ca/66/22ca66e40b15607de0455f31f8d41e11.gif">
+<body bgcolor="a1d2s3f">
 
 
 
