@@ -738,6 +738,100 @@ MEDICINA OCULTA
 		
 BIBLIA SAGRADA
 		www.drive.google.com/drive/folders/1vm_tltIH1glyg03NixiHhVdpm9vOj30k?usp=share_link
+		
+		
+		
+		
+		
+<pre>
+LIBERTAÇÃOOração de libertação pelos males que nos atormentam
+Ó Senhor, Vós sois grande, Vós sois Deus, sois Pai. Nós vos pedimos, pela intercessão e auxílio dos Arcanjos Miguel, Rafael e Gabriel, que nossos irmãos e irmãs sejam libertos do maligno, que os tornou seus escravos. Vós, todos os santos, vinde em nosso auxílio.
 
+Oração de libertação pelos males que nos atormentam
+
+Suplicamos a Deus que, por meio da oração de libertação, sejamos libertos dos males corporais e espirituais
+Da angústia, tristeza e obsessão, nós vos pedimos…
+Livrai-nos, Senhor.
+Do ódio, da fornicação e da inveja, nós vos pedimos…
+Livrai-nos, Senhor.
+Dos pensamentos de ciúme, raiva e morte, nós vos pedimos…
+Livrai-nos, Senhor.
+De todos os pensamentos de suicídio e aborto, nós vos pedimos…
+Livrai-nos, Senhor.
+De todas as formas de sexualidade desordenada, nós vos pedimos…
+Livrai-nos, Senhor.
+Da divisão da família, de toda a amizade que nos afasta do bem, nós vos pedimos…
+Livrai-nos, Senhor.
+De todas as formas de malefício, de feitiçaria, bruxaria e de qualquer mal oculto, nós vos pedimos…
+Livrai-nos, Senhor.
+
+Oração do Enriquecimento
+"Ó Deus, criador deste imenso universo, estou aqui para te invocar em favor da minha vida financeira. Que do alto da minha cabeça até a planta dos meus pés que eu seja envolvido por uma corrente de riqueza. Derrame sobre mim o dom da riqueza para que eu veja a tua glória e proclame a tua existência por onde eu passar. E que o anjo do dinheiro me visite e coloque em minhas mãos o espírito da sorte para que tudo que eu tocar venha prosperar e até o que era para dar errado passe a dar certo!
+
+Tu és o dono do ouro e da prata, então venha dos quatro cantos do mundo para me fazer um abençoado e de muitas posses. Manifeste em mim a tua grandeza e me faça ganhar, conquistar e enriquecer, porque tu és um Deus que soma, multiplica e acrescenta.
+
+
+Pelo poder do nome de Jesus Cristo, eu levanto a minha voz e profetizo que a partir deste instante o dinheiro virá em todas as direções e em avalanches de abundâncias. A partir de agora o meu destino está selado porque sou filho do Deus que criou todas as riquezas do mundo e vou me tornar muito rico.
+
+Me dê, ó Pai Celestial, o espírito da sorte para que eu venha acertar em cheio os seis números da megasena porque para o Senhor tudo é possível!
+
+Então, me torne o novo ganhador da megasena pelo teu poder pois sei que o Senhor pode interferir em minha vida. É o que eu te peço e determino que irá acontecer, em nome de Jesus Cristo. Amém."
+
+VEJA MAIS
+
+Confira essas 5 orações que podem auxiliar no estímulo de energias boas, força, gratidão e limpeza espiritual.
+Oração da noite para encerrar o dia com paz e tranquilidade
+A Santa Corona ganhou notoriedade com o início da pandemia de covid-19
+Oração da Santa Corona para um mundo livre de epidemias
+O Santo São Francisco de Assis é um amante da natureza, padroeiro dos animais e do meio ambiente.
+Oração de São Francisco de Assis para a saúde e proteção do seu pet
+Oração da fartura e abundância
+"Deus, que uma onda de energia positiva e luz transformadora chegue ao nosso lar, restaurando nossas finanças e nossos ânimos. Onde houver um alimento ou qualquer valor, que estes sejam multiplicados. Que tenhamos para suprir nossa família e ajudar quem precisa. Abençoa tudo que nos nutre, para que somente o bem maior preencha nosso interior. Que em nossa mesa habilite o espírito da união e harmonia, onde possamos compartilhar momentos de alegria e paz.
+Abra as portas do céu e faça chover fartura e abundância sem fim. Enche-nos com sua graça, Senhor. Seremos sempre gratos por sua generosidade.
+
+Gratidão por tanto amor!"
+pacto da riiqueza branco :
+ORAÇÃO DE SALOMÃO PARA ATRAIR RIQUEZA E PROSPERIDADE
+
+Orações Para Ouvir Enquanto Dorme
+1,6 mi de inscritos
+
+Inscrever-se
+
+46 mil
+
+
+Compartilhar
+
+929.394 visualizações  8 de out. de 2019
+Deus perdoe os meus pecados e falhas 
+Invoco todos os poderes que dormitam em mim para o meu uso.
+Invoco o meu Gênio criador para a conquista de todos os meus objetivos.
+Invoco as Forças Cósmicas que dirigem as vibrações de fortuna e 
+prosperidade em meu auxílio.
+Invoco os Gênios da riqueza e abundância para que sejam íntimos de minha alma.
+Eu me declaro uno com o meu Criador, Filho legítimo do Eterno Monarca,
+Príncipe herdeiro e possuidor de todas as riquezas.
+Invoco as vibrações dos Espíritos sagrados, dos deuses vivos que povoam a terra, e como Filho divino, solicito a todos os meus irmãos, no visível e
+no invisível, auxílio para o encontro da fortuna de que necessito.
+Anjos, Irmãos de todos os planos, peço-vos que mostrem-me o verdadeiro
+caminho que há de me levar á conquista de minha riqueza, agora.
+Tomo posse integralmente da soma de todas as minhas vitórias, de todos os meus triunfos; em todas as minhas vidas passadas de conquistas,
+abundância e glórias.
+EU SOU possuidor de volumosa fortuna. São os tesouros que me pertence que me torna rico. EU SOU um ser magnético e atraio para mim a saúde, a glória e a fortuna. Me firmo na opulência das criptocurrences ntfs e etfs diamant3es e do ouro sob a realização de todas as minhas metas, onde utilizo todo o potencial de minha inteligência, força de vontade e genial criatividade.
+EU SOU possuidor de volumosa fortuna, são os tesouros que me pertence que me torna rico.
+EU Tenho uma personalidade que brilha como diamante; e é a irradiação do meu interior: fonte de toda vida - pura luz, e princípio de riquezas exorbitantes.
+Eu me concentro na busca e aquisição da felicidade, vivo a auxiliar os
+meus irmãos, por isto EU SOU próspero e afortunado.
+Atraio, para meu auxílio, toda sorte, que me coloca no caminho certo
+para a aquisição de todos de sejos e metas 
+Amplio a minha criatividade e sou produtivo em todos os meus empreendimentos.
+Aumento o meu poder de vontade e tenho fé em tudo o que eu quero e sou assim invencível.
+Sintonizo a minha mente na exata freqüência da fortuna e da prosperidade.
+Organizo a minha mente para criar o que eu preciso, e como príncipe que EU SOU, detenho a fortuna que me pertence.
+Sinto no íntimo da alma o entusiasmo magnífico de ser herdeiro dos poderes dos extraordinários reis guerreiros, invoco as vibrações dos Espíritos sagrados, dos deuses vivos que povoam a terra, e como Filho divino, solicito a todos os meus irmãos, no visível e no invisível, auxílio para o encontro da fortuna de que necessito.
+Anjos, irmãos de todos os planos, peço-vos que mostrem-me, o verdadeiro caminho que há de me levar á conquista de minha riqueza, agora.
+Tomo posse integralmente da soma de todas as minhas vitórias, de todos os meus triunfos; em todas as minhas vidas passadas de conquistas, abundância e glórias.
+emnome do Deus pai do filho e do espirito santo divino e d ejehovah beriti e palet amém.</pre>
 
 </body></html>
