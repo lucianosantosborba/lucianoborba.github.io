@@ -290,7 +290,497 @@ cas ou secas.
 É conhecida ainda pelos seguintes nomes: manjericão-de-
 folha-larga, manjericão-dos-cozinheiros, erva-real, remé-
 dio-de-vaqueiro etc.
-    </td></tr></table>
-		
+    </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr></table>
+		<pre>ACACIA
+
+Nome científico: Acácia Horrida, Acácia Senegal
+
+A Acácia pertence à família das Leguminosas Mimosídeas.
+Seus ramos são fortes e suas flores muito perfumadas. É
+através de incisões no tronco dessa planta, originaria da
+África do Sul, que se extrai a goma arábica, uma substância
+densa e pegajosa. A Acácia é recomendada para o trata-
+mento de problemas intestinais, queimaduras, sendo
+indicada ainda para uso veterinário, uma vez que constitui
+um excelente remédio para nefrite canina.
+
+ALECRIM
+
+Nome científico: Rosmarinus officinalis
+
+Segundo as crendices populares, o alecrim é uma planta
+que ajuda a espantar o ismau olhadolr, a inveja. Mas essa
+planta, que pertence à família das Labiadas, tem ainda inú-
+meras funções terapêuticas. É indicada, entre outras coi-
+sas, para o tratamento de abscessos, asma e reumatis-
+mo. 0 alecrim apresenta caule lenhoso, com folhas peque-
+nas e finas. Suas flores são azuladas, possuindo também
+frutos. Esta planta exala um perfume forte, por isso é utili-
+zada pela indústria de perfumes. Uma outra propriedade
+importante do alecrim é a de estimulante, dando força e
+vigor às pessoas com fraqueza e exaustão devido a
+atividades físicas e intelectuais.
+
+ALFAVACA
+
+Nome científico: Ocinum Basilicum
+
+Pertencente à família das Labiadas é uma planta herbácea
+(erva), originária dos países com clima tropical, a exemplo
+do Brasil. A Alfavaca é aromática e pode ser muito útil na
+cozinha para a preparação de molhos e sopas, conferindo
+um paladar especial ao prato. Quando dessecada conserva
+intacto o seu perfume.
+
+É uma planta anual (que só cresce em determinadas épo-
+cas do ano). Apresenta-se com uma haste reta, suas fo-
+lhas são verdes e brilhantes, um tanto carnosas. Para a
+preparação de medicamentos são utilizadas suas folhas fres-
+cas ou secas.
+
+É conhecida ainda pelos seguintes nomes: manjericão-de-
+folha-larga, manjericão-dos-cozinheiros, erva-real, remé-
+dio-de-vaqueiro etc.
+
+ALFAZEMA
+
+Nome científico: Lavandula Officinalis
+
+Esta talvez seja uma das plantas aromáticas mais popula-
+res de nosso pais. Sua origem, entretanto, é européia. Per-
+tence também à família das Labiadas. É um arbusto pere-
+ne, isto é, que não precisa ser replantado, cuja altura varia
+entre 50 cm a 1 m. Suas folhas são longas e finas, cober-
+tas por uma lanugem esbranquiçada, distribuídas em vários
+ramos. As flores são azul-violeta, reunindo-se em
+glomérulos com a forma semelhante a uma espiga.
+A alfazema é indicada para os casos de nevralgia, excita-
+ção nervosa, insônia, vertigens, laringites, entre outras apli-
+cações, além de sua utilização na perfumaria. Para a pre-
+paração de medicamentos, utilizam-se suas flores, que de-
+vem ser dessecadas ao ar livre e à sombra.
+ALTEIA
+
+Nome científico: Althaea Officinalis
+
+Pertencente à família das Malváceas, a Altéia é uma planta
+perene (que não precisa ser replantada). Seu caule é reto e
+pode atingir a altura de dois metros. Suas flores possuem
+cinco pétalas e as folhas são ovais, cobertas por uma lanu-
+gem prateada que dá a elas uma coloração prata. É tam-
+bém conhecida como malvaísco ou malvarisco.
+A Altéia pode ser usada como laxante, calmante, diurético
+e expectorante. Esta planta se adapta bem a terrenos úmi-
+dos e pantanosos.
+AMI
+
+Nome científico: AmmíMajus
+
+É encontrada na Itália, nos terrenos áridos. Pertencente à
+família das Umbelíferas, possui uma raiz lenhosa, caule
+cespitoso. Pode chegar à altura de 1,5 m. Seus ramos são
+finos e cilíndricos e as folhas franjadas. As flores são
+esbranquiçadas e amarelas e os frutos contêm várias se-
+mentes. Esta planta possui várias utilidades terapêuticas,
+sendo indicada, principalmente, para problemas digestivos
+e favorecimento da secreção láctea e menstruações.
+
+ANGÉLICA
+Nome científico: Angelica Officínalis
+
+Pertence à família das Umbelíferas. É uma planta herbácea
+(erva.) que possui caule reto e com ramos, que
+
+pode chegar à altura de 2 m. As flores, rosadas, são pe-
+quenas e perfumadas. A Angélica é indicada, principalmen-
+te, para problemas estomacais e também como
+expectorante. EMÍste ainda uma outra espécie, a AngélícaAZEDA-
+
+CRESPA
+
+Nome científico: Rumex Crispus
+
+Muito utilizada na preparação de remédios caseiros, pois
+tem entre suas funções terapêuticas a propriedade de re-
+constituinte, laxante e adstringente para a tonificação da
+pele. É uma planta herbácea (erva) perene (que não preci-
+sa ser replantada), pertencente à família das Poligomáceas.
+
+Silvesáis, que possui as mesmas propriedades, mas ainda
+pode ser usada como planta ornamental, com a vantagem
+de servir como estimulante de apetite para pessoas anê-
+micas.
+
+BORRAGEM
+
+1. Nome científico: Borrago
+
+Algumas pessoas utilizam esta planta para saladas. É uma
+erva anual, da família das Borrináceas. Suas folhas são ás-
+peras e as flores grandes, normalmente azuladas, mas tam-
+bém podem ser vermelhas. Elas se reúnem em cachos na
+extremidade da haste. A borragem é muito procurada para
+fins medicinais devido a suas propriedades emolientes, de-
+purativas e sudoríferas.
+
+
+BUXO
+
+Nome científico: Buxos Sempervirens
+
+É urna planta que cresce em terrenos rochosos e áridos,
+sendo muito comum na Sardenha (Itália). Pode chegar a
+atingir 4 m de altura. Suas folhas são ovais e finas. Entre
+suas propriedades está a analgésica, sendo indicada para
+combater febres intermiterites e reumatismo.
+,
+
+CIPRESTE
+Nome científico: Cupressus Semperviens
+
+É uma planta originária do oriente, muito utilizada para or-
+namentação. Possui um aspecto piramidal, sendo que de
+suas folhas se extrai um óleo balsâmico, bastante utilizado
+na indústria farmacêutica. 0 Cipreste, que pertence à famí-
+lia das Coníferas, é indicado para problemas como
+hemorróidas, hemorragias, varizes e reumatísmo. Esta ár-
+vore pode chegar a medir até 1 m de altura.
+
+ERVA MOURA
+
+Nome cientifico: Solanum Migrum
+
+E também conhecida como pimenta-de-cachorro e erva-
+de-bicho, isto porque costuma crescer em qualquer lugar. É
+uma planta herbácea (erva), pertencente à família das
+Solanácias. Seu caule é reto e com muitos ramos, suas
+folhas são ovais e rugosas, coberta por uma lanugem rala.
+As flores são pequenas e rosadas e os frutos, que amadu-
+recem no verão, possuem bagas vermelhas ou pretas. Pos-
+sui várias indicações terapêuticas. É indicada para reuma-
+tismo, contusões e leucorréia.
+
+ESPINHEIRO-ALVAR
+Nome científico: Crataegus Oxyacantha
+
+Esta planta possui várias indicações terapêuticas, mas sua
+prescrição precisa ser feita por um médico. indicada para
+problemas cardíacos, servindo também como calmante e
+antiespasmódico. 0 Espinheiro Alvar pertence à família das
+Rosáceas Pomoideas e se apresenta na forma de um ar-
+busto de cor vermelha acastanhada, Seus ramos possuem
+espinhos. Suas folhas são verdes brilhantes e suas flores
+brancas, com um perfume suave. Já seus frutos podem
+ser comparados a uma maçã de tamanho extremamente
+reduzido.
+
+GIESTA
+
+Nome científico: Cytisus Scoparius
+
+As propriedades terapêuticas desta planta, que pertence à
+família das leguminosas, são inúmeras. A esparteína, um
+dos princípios ativos contidos na Giesta, é amplamente uti-
+lizada para combater problemas cardíacos. A sua ação
+diurética é especialmente eficiente para aquelas pessoas
+com problemas de obesidade, das vias urinárias e também
+para aquelas que sofrem de hidropisia. Cataplasmas com
+as flores dessa planta são muito eficientes para acabar com
+abscessos e furúnculos.
+
+A Giesta pode chegar a medir até 2 m de altura. Sua haste
+é reta e cheia de ramos. Suas flores são grandes e formam
+ramos amarelo-ouro. Seus frutos se apresentam como
+pequenas bagas, de aproximadamente 5 cm, com semen-
+tes escuras. É originária da Itália continental. Urna curiosi-
+dade a respeito da Giesta é que seus ramos servem para
+amarrar videiras e demais plantas que precisem de uma
+sustentação extra para garantir sua perfeita formação. Dela
+também se extraem fibras têxteis.
+
+GIRASSOL
+
+Nome científico: HelianthusAnnuus
+
+0 Girassol é um arbusto pertencente à família das Com-
+postas Tubifloras, que possui uma particularidade bastante
+curiosa: sua flor, semelhante a uma margarida gigante de
+cor amarela, segue, em seu curso diário, a trajetória feita
+pelo sol. É originário do México e do Peru, sendo ampla-
+mente cultivado como planta ornamental. Suas sementes
+torradas podem substituir o café, sendo indicadas para as
+pessoas que não podem com a cafeína. Além disso, possui
+inúmeras propriedades terapêuticas. É indicado para as fe-
+bres em conseqüência da malária ou de problemas pulmo-
+nares; é eficaz também rio combate às doenças do estô-
+mago e resfriados.
+Esse arbusto pode chegar à altura de 3 m. Sua haste é reta
+e verde, suas folhas são largas e cobertas por uma lanu-
+gem rala e dura. Suas sementes e frutos se encontram na
+região interna das flores, que costumam abrir durante o
+verão.
+
+IMPERATÓRIA
+
+Nome científico: Peucedanum Ostruthium
+
+Planta muito comum nas regiões montanhosas da Europa.
+A Imperatória, pertencente a família das Umbelíferas, tem
+raiz tuberosa, caule reto, medindo aproximadamente 20
+cm de altura. Suas flores são branco-perolado. Sua raiz é
+um excelente remédio contra as dores-de-cabeça em con-
+seqüência de gripes e resfriados.
+
+LINHO
+
+Nome cienti fico: Linum Usítaüssimum
+
+É uma planta herbácea (erva), muito utilizada na indústria
+têxtil, pois é dela que se extrai o tecido linho. Para conse-
+guir 5 kg de fios de boa qualidade, são necessárias 4 arrobas
+da plantas. Talvez isso explique por que este é um tecido
+nobre, que tem o seu preço elevado. Mas o Linho tem
+ainda propriedades terapêuticas, sendo um excelente la-
+xante e diurético.
+Pertencente à família das Lináceas, esta planta é originária
+do Egito. Sua haste é reta e pode alcançar até 80 cm de
+altura. Suas flores possuem cinco pétalas e têm uma colo-
+ração azulada.
+
+MALVA
+
+Nome científico: Malva Sylvestris
+
+A Malva é utilizada, por algumas pessoas, como verdura,
+fazendo parte da salada. Suas propriedades terapêuticas
+são inúmeras. É um excelente laxante e também muito
+eficiente no combate às dores-de-dente, prisão-de-ventre
+e inflamações dos rins, bexiga e intestino. A Malva é uma
+planta herbácea (erva), pertencente à família das Malváceas.
+Seu caule mede aproximadamente 20 cm de altura, algu-
+mas vezes rastejante, outras não.
+
+Suas flores são lilases ou então brancas com listras roxas.
+É milito encontrada em campos incultos.
+
+A Malva Cispa, uma das variações da espécie, é muito utili-
+zada pela indústria têxtil, pois dela se extrai uma fibra utili-
+zada para a confecção de tecidos e cordões.
+
+MARROIO
+
+Nome científico: Marrabium Vulgare
+
+Apesar do que sugere seu nome científico (Marrabium
+Vulgare), não é uma planta muito comum, mas pode ser
+encontrada principalmente em campos incultos, localiza-
+dos em zonas mais quentes e secas. Em função de seus
+principios ativos (ela contém ácido gálico, marrubina e óleo
+etéreo), o Marroio, que é uma planta herbácea (erva), pos-
+sui propriedades tônicas, expectorantes, antiespasmódicas
+e digestivas, bem como antissépticas.
+
+Pertencente à família das Labiadas, é uma planta perfuma-
+da, cuja altura varia entre 30 e 50 cm, seu caule é reto e
+robusto, coberto por uma fina lanugem. Suas folhas são
+esbranquiçadas e possuem nervuras evidentes. Os frutos,
+a exemplo das flores, possuem um aroma um tanto
+enjoativo, com sabor amargo.
+
+
+MELISSA
+
+Nome científico: Melissa Officinalis red Calamintha
+
+A Melíssa pertence à família das Labiadas. Seu caule é reto,
+podendo atingir até 80 cm de altura. É toda recoberta por
+uma lanugem, sendo que suas folhas se apresentam no
+formato de um cálice tuboso, cujo lado de dentro pode ser
+amarelo ou branco, ou ainda apresentar manchas. Suas
+folhas também são ricas em glândulas de óleo. É originária
+da América do Norte e sul da Europa. Suas propriedades
+são conhecidas desde a Grécia antiga quando era cultivada
+nos jardins, pois atribuía-se a ela a capacidade de fortale-
+cer o coração e o cérebro. A conhecida Água de Melissa,
+hoje vendida em farmácias, foi desenvolvida há séculos pelos
+Cannelitas franceses. Esta água serve como calmante e
+antiespasmódico, uma de suas maiores propriedades. A
+Melissa é ainda muito empregada para combater distúrbios
+de origem nervosa, hepática e nevrálgica, do aparelho di-
+gestivo e intestinal.
+As- folhas da Malva, quando esmagadas, exalam um agra-
+dável perfume. Ela também é conhecida como erva-cidreira-
+verdadeira, melitéia, cidrilha e melissa romana.
+
+MIL-FOLHAS
+
+Nome científico: Achillea Millefolium
+
+Pertencente à família das Compostas, as propriedades te-
+rapêuticas desta planta são lendárias. Conta-se que Aquiles,
+depois de ser gravemente ferido numa batalha, foi medica-
+do por sua mãe, Teti, com as folhas desta planta, que cu-
+rou a sua ferida. Durante séculos foi amplamente utilizada
+para evitar hemorragias. Mas, a mil-folhas possui ainda pro-
+priedades antiespasm6dicas, adstringentes, depurativas,
+sendo ainda um bom remédio para combateras
+hemorróidas. Seu caule é em forma de raiz (rizoma),
+rastejante, com a haste reta e as folhas bem verdes e
+brilhantes. Suas flores são brancas ou rosadas e seus fru-
+tos são pequeninos e amargos.
+
+NOGUEIRA
+
+Nome científico: Juglans Regia
+
+A Nogueira é uma árvore pertencente à família das
+Juq1andáceas, que pode atingir até 15 m de altura. Sua
+madeira, bem como as raízes, são utilizadas pela indústria
+madeireira para a confecção de móveis. De suas raizes
+ainda é possível extrair um suco que é diurético e laxativo e
+de seus folhas um remédio bastante eficiente para o com-
+bate da leucorréia, sendo que a casca de sua noz é um
+excelente vermífugo.
+
+0 seu tronco possui uma casca acinzentada, da qual exala
+um perfume bastante agradável. Suas folhas são grandes
+e de um verde intenso. É uma árvore amplamente cultiva-
+da em zonas de clima temperado.
+
+PARIETARIA
+
+Nome científico: Parietaria Officinalis
+
+É uma planta pertencente à família das Mirtáceas, muito
+rica em salitre, que desde os tempos mais antigos é utiliza-
+da para combater problemas nas vias urinárias. A Parietária
+cresce, sobretudo, em terrenos pedregosos, por isso é
+comumente confundida com urtiga.
+
+Sua haste é reta e lenhosa, com uma coloração
+avermelhada, medindo até 70 cm de comprimento. Suas
+folhas são pequenas, com nervuras evidentes e as flores
+são pequenas, com um tom esverdeado.
+
+
+PRIMAVERA
+
+Nome científico: Primula Officianalis
+
+Esta flor, que é a primeira a desabrochar com a chegada da
+primavera, daí o seu nome, pertence à família das
+Primuláceas, que abriga aproximadamente 50 espécies dis-
+tintas. É também uma planta muito utilizada como orna-
+mentação. Mas, além disso, possui propriedades terapêuti-
+cas, sendo um excelente calmante e antiespasmódico. A
+Primavera às vezes se apresenta na cor amarela, outras
+num tom violeta
+
+
+SABUGUEIRO
+
+Nome científico: Sambucus Ebulus
+
+As propriedades medicinais do Sabugueiro são conhecidas
+desde os tempos de Hipócrates. É extremamente eficaz
+como sudorífero, laxante e diurético. 0 Sabugueiro perten-
+ce à família das Caprifolináceas e pode atingir a altura de 4
+m. Sua casca é áspera e esbranquiçada e suas folhas pos-
+suem uma superfície marcada por nervuras. As flores são
+pequenas e brancas e também hermafroditas, possuindo
+um cheiro desagradável. A curiosidade é que esse odor,
+quando as flores são dessecadas, desaparece por comple-
+to, dando origem a um perfume agradável. Possui também
+frutos, que podem se apresentar em duas cores: roxo ou
+branco esverdeado.
+
+
+SÁLVIA
+
+Nome científico: Sálvia Officinalis
+
+Para se ter uma idéia das propriedades terapêuticas desta
+planta, basta saber que Sálvia vem da palavra salvus, que
+significa saúde. É uma erva aromáfica bastante conhecida,
+suas folhas eram ufilizadas desde a antiguidade para tornar
+os dentes mais brancos e brilhantes.
+Além disso, esta planta, pertencente à família das Labiadas,
+possui inúmeras propriedades terapêuticas. Para começar,
+é um excelente remédio contra o cansaço nervoso, de-
+pressão e esgotamento. Além disso, é díuréüca, digestiva
+e antirreumática.
+
+
+VERÔNICA
+
+Nome científico: Veronica Officinalis
+
+A Verônica é uma planta herbácea (erva) que pertence à
+família das Eucrofulariáceas Suas flores, pequenas e azuis,
+são levemente perfumadas. Esta planta possui um caule
+rastejante que não chega a mais de 30 cm. Suas sumidades
+floridas devem sér colhidas no verão e dessecadas ao sol.
+Depois, podem ser utilizadas para a preparação de remédi-
+os que são indicados para problemas digestivos, sendo ainda
+um excelente anticatarral.
+
+
+VIOLETA
+
+Nome científico: Viola Odorata
+
+Quando nos deparamos com esta graciosa plantinha, mui-
+to utilizada para a ornamentação, não imaginamos que ela
+tenha, também, propriedades terapêuticas. Apesar de apa-
+rentemente frágil, a Violeta contém violina, óleo essencial,
+amido, entre outras substâncias. É recomendada para o
+tratamento de catarros que se forrnarn em conseqüência
+da bronquite e contra as inflamações das vias respiratórias.
+A Violeta pertence à família das violáceas. Suas folhas são
+cordíformes e suas flores se apresentam em várias cores,
+podendo ser violetas, cor-de-rosa, brancas e também mes-
+cladas. A espécie silvestre, apesar de menos, graciosa, é a
+preferida da indústria farmacêutica
+
+
+VIOLETA
+
+Nome científico: Viola Odorata
+
+Quando nos deparamos com esta graciosa plantinha, mui-
+to utilizada para a ornamentação, não imaginamos que ela
+tenha, também, propriedades terapêuticas. Apesar de apa-
+rentemente frágil, a Violeta contém violina, óleo essencial,
+amido, entre outras substâncias. É recomendada para o
+tratamento de catarros que se forrnarn em conseqüência
+da bronquite e contra as inflamações das vias respiratórias.
+A Violeta pertence à família das violáceas. Suas folhas são
+cordíformes e suas flores se apresentam em várias cores,
+podendo ser violetas, cor-de-rosa, brancas e também mes-
+cladas. A espécie silvestre, apesar de menos, graciosa, é a
+preferida da indústria farmacêutica.
+
+
+VISCO
+
+Nome científico: Víscum Album
+
+As folhas do visco são muito conhecidas por suas proprie-
+dades antiespasmódicas e moderadoras da pressão arteri-
+al. Seu extrato é indicado para o tratamento da arterios-
+clerose,, nefrite crônica, histeria e epilepsia. Mas as dosa-
+gens deste extrato devem ser prescritas somente por um
+médico.
+0 visco pertence à família das Lorantáceas, sendo um ar-
+busto parasita que está sempre verde. É originário da Ásia
+Meridional. Suas pontas são longas e . fortes para que ele
+possa se fixar sobre carvalhos e árvores frutíferas e seus
+ramos são amarelo-esverdeados e as folhas carnosas, corri
+nervuras evidentes. As flores são amarelas e os frutos se
+constituem de uma baga branca, redonda, contendo ape-
+nas uma semente. A polpa de sua baga é utilizada como
+isca para caçar passarinhos.
+</pre>
+
 
 </body></html>
