@@ -242,55 +242,7 @@ e respeito</p></section>
 www.drive.google.com/drive/folders/1ZTaTjt_WYsZ0rjuwfUDV9SLm6eFOYBPa?hl=pt-BR	
 	
 	
-	<table><tr><td> ACACIA
-
-Nome científico: Acácia Horrida, Acácia Senegal
-
-A Acácia pertence à família das Leguminosas Mimosídeas.
-Seus ramos são fortes e suas flores muito perfumadas. É
-através de incisões no tronco dessa planta, originaria da
-África do Sul, que se extrai a goma arábica, uma substância
-densa e pegajosa. A Acácia é recomendada para o trata-
-mento de problemas intestinais, queimaduras, sendo
-indicada ainda para uso veterinário, uma vez que constitui
-um excelente remédio para nefrite canina.
- </td><td> ALECRIM
-
-Nome científico: Rosmarinus officinalis
-
-Segundo as crendices populares, o alecrim é uma planta
-que ajuda a espantar o ismau olhadolr, a inveja. Mas essa
-planta, que pertence à família das Labiadas, tem ainda inú-
-meras funções terapêuticas. É indicada, entre outras coi-
-sas, para o tratamento de abscessos, asma e reumatis-
-mo. 0 alecrim apresenta caule lenhoso, com folhas peque-
-nas e finas. Suas flores são azuladas, possuindo também
-frutos. Esta planta exala um perfume forte, por isso é utili-
-zada pela indústria de perfumes. Uma outra propriedade
-importante do alecrim é a de estimulante, dando força e
-vigor às pessoas com fraqueza e exaustão devido a
-atividades físicas e intelectuais.
-  </td><td> ALFAVACA
-
-Nome científico: Ocinum Basilicum
-
-Pertencente à família das Labiadas é uma planta herbácea
-(erva), originária dos países com clima tropical, a exemplo
-do Brasil. A Alfavaca é aromática e pode ser muito útil na
-cozinha para a preparação de molhos e sopas, conferindo
-um paladar especial ao prato. Quando dessecada conserva
-intacto o seu perfume.
-
-É uma planta anual (que só cresce em determinadas épo-
-cas do ano). Apresenta-se com uma haste reta, suas fo-
-lhas são verdes e brilhantes, um tanto carnosas. Para a
-preparação de medicamentos são utilizadas suas folhas fres-
-cas ou secas.
-
-É conhecida ainda pelos seguintes nomes: manjericão-de-
-folha-larga, manjericão-dos-cozinheiros, erva-real, remé-
-dio-de-vaqueiro etc.
-    </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr></table>
+	
 		<pre>ACACIA
 
 Nome científico: Acácia Horrida, Acácia Senegal
