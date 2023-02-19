@@ -812,15 +812,19 @@ prosperidade em meu auxílio.
 Invoco os Gênios da riqueza e abundância para que sejam íntimos de minha alma.
 Eu me declaro uno com o meu Criador, Filho legítimo do Eterno Monarca,
 Príncipe herdeiro e possuidor de todas as riquezas.
-Invoco as vibrações dos Espíritos sagrados, dos deuses vivos que povoam a terra, e como Filho divino, solicito a todos os meus irmãos, no visível e
+Invoco as vibrações dos Espíritos sagrados, dos deuses vivos que povoam a terra, e como Filho divino, solicito a todos os meus irmãos, 
+no visível e
 no invisível, auxílio para o encontro da fortuna de que necessito.
 Anjos, Irmãos de todos os planos, peço-vos que mostrem-me o verdadeiro
 caminho que há de me levar á conquista de minha riqueza, agora.
 Tomo posse integralmente da soma de todas as minhas vitórias, de todos os meus triunfos; em todas as minhas vidas passadas de conquistas,
 abundância e glórias.
-EU SOU possuidor de volumosa fortuna. São os tesouros que me pertence que me torna rico. EU SOU um ser magnético e atraio para mim a saúde, a glória e a fortuna. Me firmo na opulência das criptocurrences ntfs e etfs diamant3es e do ouro sob a realização de todas as minhas metas, onde utilizo todo o potencial de minha inteligência, força de vontade e genial criatividade.
+EU SOU possuidor de volumosa fortuna. São os tesouros que me pertence que me torna rico. EU SOU um ser magnético e atraio para mim a saúde, 
+a glória e a fortuna. Me firmo na opulência das criptocurrences ntfs e etfs diamant3es e do ouro sob a realização de todas as minhas metas, 
+onde utilizo todo o potencial de minha inteligência, força de vontade e genial criatividade.
 EU SOU possuidor de volumosa fortuna, são os tesouros que me pertence que me torna rico.
-EU Tenho uma personalidade que brilha como diamante; e é a irradiação do meu interior: fonte de toda vida - pura luz, e princípio de riquezas exorbitantes.
+EU Tenho uma personalidade que brilha como diamante; e é a irradiação do meu interior: fonte de toda vida - pura luz, 
+e princípio de riquezas exorbitantes.
 Eu me concentro na busca e aquisição da felicidade, vivo a auxiliar os
 meus irmãos, por isto EU SOU próspero e afortunado.
 Atraio, para meu auxílio, toda sorte, que me coloca no caminho certo
@@ -829,12 +833,21 @@ Amplio a minha criatividade e sou produtivo em todos os meus empreendimentos.
 Aumento o meu poder de vontade e tenho fé em tudo o que eu quero e sou assim invencível.
 Sintonizo a minha mente na exata freqüência da fortuna e da prosperidade.
 Organizo a minha mente para criar o que eu preciso, e como príncipe que EU SOU, detenho a fortuna que me pertence.
-Sinto no íntimo da alma o entusiasmo magnífico de ser herdeiro dos poderes dos extraordinários reis guerreiros, invoco as vibrações dos Espíritos sagrados, dos deuses vivos que povoam a terra, e como Filho divino, solicito a todos os meus irmãos, no visível e no invisível, auxílio para o encontro da fortuna de que necessito.
+Sinto no íntimo da alma o entusiasmo magnífico de ser herdeiro dos poderes dos extraordinários reis guerreiros, 
+invoco as vibrações dos Espíritos sagrados, dos deuses vivos que povoam a terra, e como Filho divino, solicito a todos os meus irmãos,
+no visível e no invisível, auxílio para o encontro da fortuna de que necessito.
 Anjos, irmãos de todos os planos, peço-vos que mostrem-me, o verdadeiro caminho que há de me levar á conquista de minha riqueza, agora.
-Tomo posse integralmente da soma de todas as minhas vitórias, de todos os meus triunfos; em todas as minhas vidas passadas de conquistas, abundância e glórias.
+Tomo posse integralmente da soma de todas as minhas vitórias, de todos os meus triunfos; em todas as minhas vidas passadas de conquistas, 
+abundância e glórias.
 emnome do Deus pai do filho e do espirito santo divino e d ejehovah beriti e palet amém.</pre>
 
 APOSTILA BANCO DO BRASIL
 www.drive.google.com/drive/folders/1hzir_DfvzQ-gXy0cdK6JcBGP6m4NLita?usp=sharing
-
+		
+		DICIONARIO PORTUGUES FRANCES
+		www.drive.google.com/file/d/11ZMMNkouMaGPI_wve4FII4Z5vD7cY5Fp/view?usp=sharing
+		
+DICIONARIO INGLES  HINDI
+		https://drive.google.com/file/d/1i2X4-atRfxLH9bTYk743Ie-cK2Bud5Lp/view?usp=sharing
+		
 </body></html>
