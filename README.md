@@ -834,4 +834,7 @@ Anjos, irmãos de todos os planos, peço-vos que mostrem-me, o verdadeiro caminh
 Tomo posse integralmente da soma de todas as minhas vitórias, de todos os meus triunfos; em todas as minhas vidas passadas de conquistas, abundância e glórias.
 emnome do Deus pai do filho e do espirito santo divino e d ejehovah beriti e palet amém.</pre>
 
+APOSTILA BANCO DO BRASIL
+www.drive.google.com/drive/folders/1hzir_DfvzQ-gXy0cdK6JcBGP6m4NLita?usp=sharing
+
 </body></html>
