@@ -228,7 +228,11 @@ e respeito</p></section>
 				<a href="https://i.blogs.es/0806ff/41266375190_48be9d8365_k/450_1000.jpg"><img width="500px" height="375" src="https://i.blogs.es/0806ff/41266375190_48be9d8365_k/450_1000.jpg"></a></p>
 				www.drive.google.com/drive/folders/0B1nwmMm5MT79WGhzaldYNUhTRmM?resourcekey=0-kEjk3YJZPJyI-GoniS8lkA&usp=share_link
 	
-		gramatica inglesa: www.drive.google.com/file/d/12pI5H2fr1ed8rOMlMquME3VmxjfytnPx/view?usp=sharing	
+		gramatica inglesa Apostila 12000 words: 
+			
+			
+	www.drive.google.com/file/d/1XwxmtVQKhmn8EmLXTpU38HILjqhlsfd9/view?usp=sharing		
+	www.drive.google.com/file/d/12pI5H2fr1ed8rOMlMquME3VmxjfytnPx/view?usp=sharing	
 			
 			
 			
@@ -848,6 +852,11 @@ www.drive.google.com/drive/folders/1hzir_DfvzQ-gXy0cdK6JcBGP6m4NLita?usp=sharing
 		www.drive.google.com/file/d/11ZMMNkouMaGPI_wve4FII4Z5vD7cY5Fp/view?usp=sharing
 		
 DICIONARIO INGLES  HINDI
-		https://drive.google.com/file/d/1i2X4-atRfxLH9bTYk743Ie-cK2Bud5Lp/view?usp=sharing
+		www.drive.google.com/file/d/1i2X4-atRfxLH9bTYk743Ie-cK2Bud5Lp/view?usp=sharing
+		APOSTILA CULINARIA
+		www.drive.google.com/file/d/1Aeo5iibAHgsWLnPOxA80PuqnvKC7ipY4/view?usp=sharing
+		
+		DECORAÇÃO DE ALTO PADRÃO IN WORLD
+		www.drive.google.com/drive/folders/1nOO0T3oLhurSCaDqh8GLqVvjfeff_Uq0?usp=share_link
 		
 </body></html>
