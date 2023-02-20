@@ -798,16 +798,7 @@ pacto da riiqueza branco :
 ORAÇÃO DE SALOMÃO PARA ATRAIR RIQUEZA E PROSPERIDADE
 
 Orações Para Ouvir Enquanto Dorme
-1,6 mi de inscritos
 
-Inscrever-se
-
-46 mil
-
-
-Compartilhar
-
-929.394 visualizações  8 de out. de 2019
 Deus perdoe os meus pecados e falhas 
 Invoco todos os poderes que dormitam em mim para o meu uso.
 Invoco o meu Gênio criador para a conquista de todos os meus objetivos.
