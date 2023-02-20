@@ -874,6 +874,7 @@ DICIONARIO INGLES  HINDI
 	!!!!!Tanks github!!!!!!
 	
 	
-	
+	![image](https://user-images.githubusercontent.com/5438462/219987010-082f2175-2221-4b73-b056-0636b97769bd.png)
+
 	
 		</body></html>
