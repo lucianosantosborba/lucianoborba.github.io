@@ -859,9 +859,12 @@ DICIONARIO INGLES  HINDI
 		DECORAÇÃO DE ALTO PADRÃO IN WORLD
 		www.drive.google.com/drive/folders/1nOO0T3oLhurSCaDqh8GLqVvjfeff_Uq0?usp=share_link
 		</pre>
-		wale book bank
+		whale book bank
 		<pre>
-		<a href="https://www.bing.com/th?id=OHR.MauiWhale_PT-BR2650899456_tmb.jpg&amp;rf="><img width="315px" height="375" src="https://www.bing.com/th?id=OHR.MauiWhale_PT-BR2650899456_tmb.jpg&amp;rf="></a></p>
+		
+		<h2 class="texto"><p align="center">
+<a href="https://www.bing.com/th?id=OHR.MauiWhale_PT-BR2650899456_tmb.jpg&amp;rf="><img width="500px" height="375" src="https://www.bing.com/th?id=OHR.MauiWhale_PT-BR2650899456_tmb.jpg&amp;rf="></a></p>
+
 		https://drive.google.com/file/d/1ThU-eNwlaRPIge2i4S4_G8RpzEogpBfA/view?usp=sharing
 		
 		</pre>
