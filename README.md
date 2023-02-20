@@ -862,7 +862,7 @@ DICIONARIO INGLES  HINDI
 		whale book bank
 		<pre>
 		
-		<h2 class="texto"><p align="center">
+		
 <a href="https://www.bing.com/th?id=OHR.MauiWhale_PT-BR2650899456_tmb.jpg&amp;rf="><img width="500px" height="375" src="https://www.bing.com/th?id=OHR.MauiWhale_PT-BR2650899456_tmb.jpg&amp;rf="></a></p>
 
 		www.drive.google.com/file/d/1ThU-eNwlaRPIge2i4S4_G8RpzEogpBfA/view?usp=sharing
