@@ -878,31 +878,18 @@ DICIONARIO INGLES  HINDI
 </pre>
 	
 	<div id="header">
-<center><h2> jump for joy sale</h2></div></center>
+<center><h2> Lindas praias </h2></div></center>
 
 
-<table><tr><td><div><a href="https://wallhere.com/en/wallpaper/1119701"><img width="230px" height="190px"src="https://www.photofunky.net/output/image/e/0/c/7/e0c786/photofunky.gif"></a>
-<pre>los angeles State of California's
- Megan's Law - CA.govhttps://www.meganslaw.ca.gov › se...
-Traduzir esta página
-Informational Only. The California Department of Justice
- has not considered or assessed the specific risk that any 
-convicted sex offender displayed on this ...</pre> </td><td><div><img width="230px" height="190px"src="https://www.photofunky.net/output/image/a/c/4/a/ac4a29/photofunky.gif">
-<pre>What Is Smishing? How Scammers Use Texts to 
-Steal Your Datahttps://www.aarp.org › info-2020
-Traduzir esta página
-Seemingly harmless text messages could actually be 
-fraudsters trying to steal 
-... or cancellation notice for a product or service you 
-supposedly bought.
+<table><tr><td><div><a href="https://media.tenor.com/Z6xgtxcs6FwAAAAd/carboneras-sea.gif"><img width="230px" height="190px"src="https://www.photofunky.net/output/image/e/0/c/7/e0c786/photofunky.gif"></a>
+<pre>Capão da Canoa é um município brasileiro localizado no litoral norte do estado do Rio Grande do Sul. 
+Conforme estimativa do IBGE de 2019, sua população é de 53.459 habitantes. 
 </pre></div>
-</td><td><div><img width="230px" height="190px" src="https://www.photofunky.net/output/image/d/a/2/f/da2f87/photofunky.gif">
-<pre>State of California's Megan's Law - 
-CA.govhttps://www.meganslaw.ca.gov › se...
-Traduzir esta página
-Informational Only. The California Department of Justice 
-has not considered or assessed the specific risk that any 
-convicted sex offender displayed on this ...
+</td><td><div><img width="230px" height="190px" src="https://macamp.com.br/guia/wp-content/uploads/2016/06/camping-balne%C3%A1rio-santa-vit%C3%B3ria-rio-pardo-rs-5-1.jpg">
+<pre>balneario santa vitoria fica do outro lado
+da praia dos ingazeiros em Rio pardo
+RS ainda um ótimo local de camping 
+gratuito.
 
 </pre></div> </td>
 <td> <div><img width="230px" height="190px" src="https://www.photofunky.net/output/image/6/5/4/4/65443e/photofunky.gif">
