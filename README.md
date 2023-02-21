@@ -215,7 +215,7 @@ e respeito</p></section>
 	
 	THE BEST PARKS
 	
-	<h2 class="texto"><p align="center">
+	
 <a href="https://c8y3s8d4.stackpathcdn.com/wp-content/uploads/2015/06/vista-universal-studios-orlando.png"><img width="500px" height="375" src="https://c8y3s8d4.stackpathcdn.com/wp-content/uploads/2015/06/vista-universal-studios-orlando.png"></a></p>
 		
 		
