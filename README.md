@@ -882,23 +882,34 @@ DICIONARIO INGLES  HINDI
 
 
 <table><tr><td><div><a href="https://media.tenor.com/Z6xgtxcs6FwAAAAd/carboneras-sea.gif"><img width="230px" height="190px"src="https://i.pinimg.com/originals/95/c1/d0/95c1d00ac3ecdebc2277d33d47b0d637.gif"></a>
-<pre>Capão da Canoa é um município brasileiro localizado
-no litoral norte do estado do Rio Grande do Sul. 
-Conforme estimativa do IBGE de 2019, sua população é de 53.459 habitantes. 
+<pre>Capão da Canoa é um município
+,brasileiro localizado
+no litoral norte do estado
+do Rio Grande do Sul. 
+Conforme estimativa do IBGE
+de 2019, sua população é de
+53.459 habitantes. 
 </pre></div>
 </td><td><div><img width="230px" height="190px" src="https://macamp.com.br/guia/wp-content/uploads/2016/06/camping-balne%C3%A1rio-santa-vit%C3%B3ria-rio-pardo-rs-5-1.jpg">
-<pre>balneario santa vitoria fica do outro lado
-da praia dos ingazeiros em Rio pardo
-RS ainda um ótimo local de camping 
+<pre>balneario santa
+vitoria fica do outro lado
+da praia dos ingazeiros em 
+Rio pardo
+RS ainda um ótimo 
+local de camping 
 gratuito.
 
 </pre></div> </td>
-<td> <div><img width="230px" height="190px" src="https://www.photofunky.net/output/image/6/5/4/4/65443e/photofunky.gif">
-<pre>you like sex - Tradução em português 
-- Lingueehttps://www.linguee.com.br › ingles-portugues › traducao
-Muitos exemplos de traduções com "you like 
-sex" – Dicionário português-inglês e busca em milhões de traduções.
-Não encontrados: notice ‎| Precisa incluir: notice
+<td> <div><a href="https://guiafloripa.com.br/cidade/bairros/campeche"><img width="230px" height="190px"src="https://blog.feelinimoveis.com.br/wp-content/uploads/2020/06/campeche-1.jpg"></a>
+
+<pre>O bairro Campeche está localizado no
+sul da Ilha de Santa Catarina, entre os 
+bairros Armação do Pântano do Sul e 
+Rio Tavares. Atualmente, é uma das 
+regiões da cidade com maior potencial
+de crescimento, em termos de expansão 
+urbana, pois está localizado na
+maior planície da Ilha.
 </pre></div></td>
 
 </tr>	
