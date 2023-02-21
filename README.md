@@ -877,4 +877,40 @@ DICIONARIO INGLES  HINDI
 	
 </pre>
 	
-		
+	<div id="header">
+<center><h2> jump for joy sale</h2></div></center>
+
+
+<table><tr><td><div><a href="https://wallhere.com/en/wallpaper/1119701"><img width="230px" height="190px"src="https://www.photofunky.net/output/image/e/0/c/7/e0c786/photofunky.gif"></a>
+<pre>los angeles State of California's
+ Megan's Law - CA.govhttps://www.meganslaw.ca.gov › se...
+Traduzir esta página
+Informational Only. The California Department of Justice
+ has not considered or assessed the specific risk that any 
+convicted sex offender displayed on this ...</pre> </td><td><div><img width="230px" height="190px"src="https://www.photofunky.net/output/image/a/c/4/a/ac4a29/photofunky.gif">
+<pre>What Is Smishing? How Scammers Use Texts to 
+Steal Your Datahttps://www.aarp.org › info-2020
+Traduzir esta página
+Seemingly harmless text messages could actually be 
+fraudsters trying to steal 
+... or cancellation notice for a product or service you 
+supposedly bought.
+</pre></div>
+</td><td><div><img width="230px" height="190px" src="https://www.photofunky.net/output/image/d/a/2/f/da2f87/photofunky.gif">
+<pre>State of California's Megan's Law - 
+CA.govhttps://www.meganslaw.ca.gov › se...
+Traduzir esta página
+Informational Only. The California Department of Justice 
+has not considered or assessed the specific risk that any 
+convicted sex offender displayed on this ...
+
+</pre></div> </td>
+<td> <div><img width="230px" height="190px" src="https://www.photofunky.net/output/image/6/5/4/4/65443e/photofunky.gif">
+<pre>you like sex - Tradução em português 
+- Lingueehttps://www.linguee.com.br › ingles-portugues › traducao
+Muitos exemplos de traduções com "you like 
+sex" – Dicionário português-inglês e busca em milhões de traduções.
+Não encontrados: notice ‎| Precisa incluir: notice
+</pre></div></td>
+
+</tr>	
