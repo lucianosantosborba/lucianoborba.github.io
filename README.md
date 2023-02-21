@@ -141,7 +141,7 @@ PRAÇA SANTO ANGELO
 MUSEU BARÃO DE SANTO ANGELO
 <a href="https://i.pinimg.com/564x/ce/8e/0d/ce8e0d8a0fde3bd0878ecc795b92c3e6.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/ce/8e/0d/ce8e0d8a0fde3bd0878ecc795b92c3e6.jpg"></a></p>
 GIF CAPOEIRA
-<a href="https://i.pinimg.com/564x/b6/74/30/b6743015814d301dce6984b8ef93c9bb.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/b6/74/30/b6743015814d301dce6984b8ef93c9bb.jpg"></a></p>
+<a href="https://i.pinimg.com/originals/e0/5e/4c/e05e4c382984ed844b90151edb1c5e1e.gif"><img width="500px" height="375" src="https://i.pinimg.com/originals/e0/5e/4c/e05e4c382984ed844b90151edb1c5e1e.gif"></a></p>
 IGREJA DE BAJÉ
 <a href="https://i.pinimg.com/564x/82/94/95/829495012609204a120cc97f83b80481.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/82/94/95/829495012609204a120cc97f83b80481.jpg"></a></p>
 IGREJA MATRIZ
