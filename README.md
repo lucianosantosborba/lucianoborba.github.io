@@ -872,10 +872,7 @@ DICIONARIO INGLES  HINDI
 		</pre>
 	
 	!!!!!Tanks github!!!!!!
-	<pre>
-	<table><tr> <td><img width="350" height="175" src="https://media2.giphy.com/media/PtKRzaXOrcOXfHDEsE/200w.gif"> </td><td>img width="350" height="175" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-osiPurwiDquU-lOdhj0Xohdoa571nGkPgkdtsBxmxVsMxjhbELoFgA3cc83SsiPPvLs&usqp=CAU"> </td> <td><img width="350" height="175" src="https://media2.giphy.com/media/PtKRzaXOrcOXfHDEsE/200w.gif" </td> <td> <img width="350" height="175" src="https://media2.giphy.com/media/PtKRzaXOrcOXfHDEsE/200w.gif"</td>  </tr></table>
 	
-</pre>
 	
 	<div id="header">
 <center><h2> Lindas praias </h2></div></center>
