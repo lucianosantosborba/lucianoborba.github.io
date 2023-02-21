@@ -900,7 +900,7 @@ local de camping
 gratuito.
 
 </pre></div> </td>
-<td> <div><a href="https://guiafloripa.com.br/cidade/bairros/campeche"><img width="230px" height="190px"src="https://blog.feelinimoveis.com.br/wp-content/uploads/2020/06/campeche-1.jpg"></a>
+<td> <div><a href="https://guiafloripa.com.br/cidade/bairros/campeche"><img width="230px" height="190px"src="https://guiafloripa.com.br/wp-content/uploads/2020/02/dunas-do-campeche-600x400.jpg"></a>
 
 <pre>O bairro Campeche está localizado no
 sul da Ilha de Santa Catarina, entre os 
