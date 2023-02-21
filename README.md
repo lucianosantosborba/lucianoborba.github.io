@@ -881,8 +881,9 @@ DICIONARIO INGLES  HINDI
 <center><h2> Lindas praias </h2></div></center>
 
 
-<table><tr><td><div><a href="https://media.tenor.com/Z6xgtxcs6FwAAAAd/carboneras-sea.gif"><img width="230px" height="190px"src="https://www.photofunky.net/output/image/e/0/c/7/e0c786/photofunky.gif"></a>
-<pre>Capão da Canoa é um município brasileiro localizado no litoral norte do estado do Rio Grande do Sul. 
+<table><tr><td><div><a href="https://media.tenor.com/Z6xgtxcs6FwAAAAd/carboneras-sea.gif"><img width="230px" height="190px"src="https://i.pinimg.com/originals/95/c1/d0/95c1d00ac3ecdebc2277d33d47b0d637.gif"></a>
+<pre>Capão da Canoa é um município brasileiro localizado
+no litoral norte do estado do Rio Grande do Sul. 
 Conforme estimativa do IBGE de 2019, sua população é de 53.459 habitantes. 
 </pre></div>
 </td><td><div><img width="230px" height="190px" src="https://macamp.com.br/guia/wp-content/uploads/2016/06/camping-balne%C3%A1rio-santa-vit%C3%B3ria-rio-pardo-rs-5-1.jpg">
