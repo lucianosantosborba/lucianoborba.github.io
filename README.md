@@ -219,7 +219,9 @@ e respeito</p></section>
 <a href="https://c8y3s8d4.stackpathcdn.com/wp-content/uploads/2015/06/vista-universal-studios-orlando.png"><img width="500px" height="375" src="https://c8y3s8d4.stackpathcdn.com/wp-content/uploads/2015/06/vista-universal-studios-orlando.png"></a></p>
 		
 	APOSTILAS DE FILOSOFIA
-				<a href="https://i.blogs.es/0806ff/41266375190_48be9d8365_k/450_1000.jpg"><img width="500px" height="375" src="https://i.blogs.es/0806ff/41266375190_48be9d8365_k/450_1000.jpg"></a></p>
+		<h2 class="texto"><p align="center">
+<a href="https://i.pinimg.com/originals/7d/62/8c/7d628c75437e194e15c32be5fcde40c9.gif"><img width="500px" height="375" src="https://i.blogs.es/0806ff/41266375190_48be9d8365_k/450_1000.jpg"></a></p>
+		
 				www.drive.google.com/drive/folders/0B1nwmMm5MT79WGhzaldYNUhTRmM?resourcekey=0-kEjk3YJZPJyI-GoniS8lkA&usp=share_link
 	
 		gramatica inglesa Apostila 12000 words: 
