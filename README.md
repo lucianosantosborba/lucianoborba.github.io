@@ -168,7 +168,12 @@ LOGOS ASSEMBLEIA DE DEUS, ,FLOR DE LIZ ESCOTISMO IN WORLD
 
 GM:6;8;9;2;3;6
 	<section><h2><pre>
-<marquee>Salmos 23 
+<marquee>
+<h2 class="texto"><p align="center">
+<a href="https://assets.churchofjesuschrist.org/51/c5/51c5cfad1afa82e3909fd8202fd1d9e9cbc602b3/jesus_sermon_mount.jpeg"><img width="500px" height="375" src="https://assets.churchofjesuschrist.org/51/c5/51c5cfad1afa82e3909fd8202fd1d9e9cbc602b3/jesus_sermon_mount.jpeg"></a></p>
+	
+
+Salmos 23 
 1 O SENHOR é o meu pastor, nada me faltará.
 
 2 Deitar-me faz em verdes pastos, 
