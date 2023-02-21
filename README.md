@@ -863,18 +863,18 @@ DICIONARIO INGLES  HINDI
 	
 	lindas baleias no mar a fauna maritima precisas ser cada dia mais preservada
 	
-	
+<pre>	
 !!!!!!!!GOOD LUCK!!!!!!!!
 	
 	
 <h2 class="texto"><p align="center">
 <a href="https://i.pinimg.com/originals/7d/62/8c/7d628c75437e194e15c32be5fcde40c9.gif"><img width="500px" height="375" src="https://i.pinimg.com/originals/7d/62/8c/7d628c75437e194e15c32be5fcde40c9.gif"></a></p>
-		
+		</pre>
 	
 	!!!!!Tanks github!!!!!!
-	
+	<pre>
 	<table><tr> <td><img width="350" height="175" src="https://media2.giphy.com/media/PtKRzaXOrcOXfHDEsE/200w.gif"> </td><td>img width="350" height="175" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-osiPurwiDquU-lOdhj0Xohdoa571nGkPgkdtsBxmxVsMxjhbELoFgA3cc83SsiPPvLs&usqp=CAU"> </td> <td><img width="350" height="175" src="https://media2.giphy.com/media/PtKRzaXOrcOXfHDEsE/200w.gif" </td> <td> <img width="350" height="175" src="https://media2.giphy.com/media/PtKRzaXOrcOXfHDEsE/200w.gif"</td>  </tr></table>
 	
-
+</pre>
 	
 		
