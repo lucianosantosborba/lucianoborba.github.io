@@ -924,7 +924,8 @@ BELOS PARKS DO MUNDO NO TEXAS(U.S.A)
 <table><tr><td><div><a href="https://i.pinimg.com/564x/34/a0/52/34a052e8c4095cfc22b0a30bd2de9a1e.jpg"><img width="230px" height="190px"src="https://i.pinimg.com/564x/34/a0/52/34a052e8c4095cfc22b0a30bd2de9a1e.jpg"></a>
 <pre>Guerinão
 </pre></div>
-</td><td><div><img width="230px" height="190px" src="https://i.pinimg.com/564x/9c/08/ef/9c08ef3ce502418025d036441282c2a1.jpg">
+</td>
+<td><div><a href="https://i.pinimg.com/564x/9c/08/ef/9c08ef3ce502418025d036441282c2a1.jpg"><img width="230px" height="190px" src="https://i.pinimg.com/564x/9c/08/ef/9c08ef3ce502418025d036441282c2a1.jpg"></a>
 <pre>Escola barro vermelho
 
 </pre></div> </td>
