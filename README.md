@@ -227,25 +227,7 @@ e respeito</p></section>
 		
 <a href="https://i.pinimg.com/originals/7d/62/8c/7d628c75437e194e15c32be5fcde40c9.gif"><img width="500px" height="375" src="https://i.blogs.es/0806ff/41266375190_48be9d8365_k/450_1000.jpg"></a></p>
 
-	<div id="header">
-<center><h2> THE BEST PARK </h2></div></center>
-
-
-<table><tr><td><div><a href="https://media.tenor.com/Z6xgtxcs6FwAAAAd/carboneras-sea.gif"><img width="230px" height="190px"src="https://c8y3s8d4.stackpathcdn.com/wp-content/uploads/2015/06/vista-universal-studios-orlando.png"></a>
-<pre>THE BEST PARK
-</pre></div>
-</td><td><div><img width="230px" height="190px" src="https://www.takethefamily.com/sites/default/files/styles/800x600/public/belgium_cpe_erperheide_fishpool_1000x500.jpg?itok=v_KA9HUX">
-<pre>TEH BEST PARK 
-AQUATIC
-
-</pre></div> </td>
-<td> <div><a href=<"https://www.takethefamily.com/sites/default/files/styles/800x600/public/belgium_cpe_erperheide_fishpool_1000x500.jpg?itok=v_KA9HUX"></a>
-
-<pre>UM DOS MELHORES E MAIS 
-BELOS PARKS DO MUNDO NO TEXAS(U.S.A)
-</pre></div></td>
-
-</tr>	
+	<
 		
 				www.drive.google.com/drive/folders/0B1nwmMm5MT79WGhzaldYNUhTRmM?resourcekey=0-kEjk3YJZPJyI-GoniS8lkA&usp=share_link
 	
@@ -927,4 +909,24 @@ urbana, pois está localizado na
 maior planície da Ilha.
 </pre></div></td>
 
+</tr>	<hr>
+<div id="header">
+<center><h2> THE BEST PARK </h2></div></center>
+
+
+<table><tr><td><div><a href="https://media.tenor.com/Z6xgtxcs6FwAAAAd/carboneras-sea.gif"><img width="230px" height="190px"src="https://c8y3s8d4.stackpathcdn.com/wp-content/uploads/2015/06/vista-universal-studios-orlando.png"></a>
+<pre>THE BEST PARK
+</pre></div>
+</td><td><div><img width="230px" height="190px" src="https://www.takethefamily.com/sites/default/files/styles/800x600/public/belgium_cpe_erperheide_fishpool_1000x500.jpg?itok=v_KA9HUX">
+<pre>THE BEST PARK 
+AQUATIC
+
+</pre></div> </td>
+<td> <div><a href=<"https://www.takethefamily.com/sites/default/files/styles/800x600/public/belgium_cpe_erperheide_fishpool_1000x500.jpg?itok=v_KA9HUX"></a>
+
+<pre>UM DOS MELHORES E MAIS 
+BELOS PARKS DO MUNDO NO TEXAS(U.S.A)
+</pre></div></td>
+
 </tr>	
+
