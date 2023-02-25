@@ -103,9 +103,7 @@ www.drive.google.com/file/d/1vmu-oWwykAEpTDs7Bpc7iGkRuz85IJx0/view?usp=sharing
 	<h2 class="texto"><p align="center">
 <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMtuKT3rcOdS4r5MZwYjFRq9bkTvO3zSUkMA&usqp=CAU"><img width="500px" height="375" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMtuKT3rcOdS4r5MZwYjFRq9bkTvO3zSUkMA&usqp=CAU"></a></p>
 		RIO PARDO RS
-		<h2 class="texto"><p align="center">
-<a href="https://i.pinimg.com/originals/bb/b0/df/bbb0df4c883dc5d0f761ccb7c0835efa.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/bb/b0/df/bbb0df4c883dc5d0f761ccb7c0835efa.jpg"></a></p>
-			CAPÃO DA CANOA RS
+		
 			
 		<h2 class="texto"><p align="center">
 <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQYrOEZZH7CGJuLucLeP-e-bfch5iFhjrQnw&usqp=CAU"><img width="500px" height="375" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQYrOEZZH7CGJuLucLeP-e-bfch5iFhjrQnw&usqp=CAU"></a></p>
@@ -935,7 +933,7 @@ BELOS PARKS DO MUNDO NO TEXAS(U.S.A)
 <pre>logo assemble world
 </pre></div></td>
 	
-	<td> <div><a href="https://i.pinimg.com/564x/2f/a4/ec/2fa4ec5db7dd51fee387c63ec3596b37.jpg"><img width="230px" height="190px" src="https://i.pinimg.com/564x/2f/a4/ec/2fa4ec5db7dd51fee387c63ec3596b37.jpg"></a>
+	<td> <div><a href="https://i.pinimg.com/originals/bb/b0/df/bbb0df4c883dc5d0f761ccb7c0835efa.jpg"><img width="230px" height="190px" src="https://i.pinimg.com/originals/bb/b0/df/bbb0df4c883dc5d0f761ccb7c0835efa.jpg"></a>
 
 <pre>Flor de Liz hooph hooph
 scout for world!!!!!
