@@ -905,35 +905,39 @@ maior planície da Ilha.
 <table><tr><td><div><a href="https://media.tenor.com/Z6xgtxcs6FwAAAAd/carboneras-sea.gif"><img width="230px" height="190px"src="https://c8y3s8d4.stackpathcdn.com/wp-content/uploads/2015/06/vista-universal-studios-orlando.png"></a>
 <pre>THE BEST PARK
 </pre></div>
-</td><td><div><img width="230px" height="190px" src="https://www.takethefamily.com/sites/default/files/styles/800x600/public/belgium_cpe_erperheide_fishpool_1000x500.jpg?itok=v_KA9HUX">
+</td><td><div><a href="https://www.takethefamily.com/sites/default/files/styles/800x600/public/belgium_cpe_erperheide_fishpool_1000x500.jpg?itok=v_KA9HUX"><img width="230px" height="190px" src="https://www.takethefamily.com/sites/default/files/styles/800x600/public/belgium_cpe_erperheide_fishpool_1000x500.jpg?itok=v_KA9HUX">
 <pre>THE BEST PARK 
 AQUATIC
 
-</pre></div> </td>
-<td> <div><a href="https://www.onlyinyourstate.com/"><img width="230px" height="190px" src="https://img-aws.ehowcdn.com/700x/www.onlyinyourstate.com/wp-content/uploads/2016/05/12492039_910543395697352_7375667701803097262_o.jpg"></a>
-
+</pre></a></div> </td>
+<td> <div><a href="https://www.onlyinyourstate.com/"><img width="230px" height="190px" src="https://img-aws.ehowcdn.com/700x/www.onlyinyourstate.com/wp-content/uploads/2016/05/12492039_910543395697352_7375667701803097262_o.jpg">
 <pre>UM DOS MELHORES E MAIS 
 BELOS PARKS DO MUNDO NO TEXAS(U.S.A)
-</pre></div></td>
+</pre>
+</a>
+
+</div></td>
 
 </tr>	
 <div id="header">
 <center><h2> locais da city beach and parks </h2></div></center>
 
 
-<table><tr><td><div><a href="https://i.pinimg.com/564x/34/a0/52/34a052e8c4095cfc22b0a30bd2de9a1e.jpg"><img width="230px" height="190px"src="https://i.pinimg.com/564x/34/a0/52/34a052e8c4095cfc22b0a30bd2de9a1e.jpg"></a>
+<table><tr><td><div><a href="https://i.pinimg.com/564x/34/a0/52/34a052e8c4095cfc22b0a30bd2de9a1e.jpg"><img width="230px" height="190px"src="https://i.pinimg.com/564x/34/a0/52/34a052e8c4095cfc22b0a30bd2de9a1e.jpg">
 <pre>Guerinão
-</pre></div>
+</pre></a>
+</div>
 </td>
 </body></html>
-<td><div><a href="https://i.pinimg.com/564x/9c/08/ef/9c08ef3ce502418025d036441282c2a1.jpg"><img width="230px" height="190px" src="https://i.pinimg.com/564x/9c/08/ef/9c08ef3ce502418025d036441282c2a1.jpg"></a>
+<td><div><a href="https://i.pinimg.com/564x/9c/08/ef/9c08ef3ce502418025d036441282c2a1.jpg"><img width="230px" height="190px" src="https://i.pinimg.com/564x/9c/08/ef/9c08ef3ce502418025d036441282c2a1.jpg">
 <pre>Escola barro vermelho
 
-</pre></div> </td>
-<td> <div><a href="https://i.pinimg.com/564x/be/60/e0/be60e09e95a4acbdfe477d05453748b8.jpg"><img width="230px" height="190px" src="https://i.pinimg.com/564x/be/60/e0/be60e09e95a4acbdfe477d05453748b8.jpg"></a>
+</pre></a>
+</div> </td>
+<td> <div><a href="https://i.pinimg.com/564x/be/60/e0/be60e09e95a4acbdfe477d05453748b8.jpg"><img width="230px" height="190px" src="https://i.pinimg.com/564x/be/60/e0/be60e09e95a4acbdfe477d05453748b8.jpg"><pre>logo assemble world
+</pre></a>
 
-<pre>logo assemble world
-</pre></div></td>
+</div></td>
 	
 <td> <div>
 <a href="https://i.pinimg.com/originals/bb/b0/df/bbb0df4c883dc5d0f761ccb7c0835efa.jpg"><img width="230px" height="190px" src="https://i.pinimg.com/originals/bb/b0/df/bbb0df4c883dc5d0f761ccb7c0835efa.jpg"><pre>Flor de Liz hooph hooph
