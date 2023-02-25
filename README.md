@@ -105,7 +105,7 @@ www.drive.google.com/file/d/1vmu-oWwykAEpTDs7Bpc7iGkRuz85IJx0/view?usp=sharing
 		RIO PARDO RS
 		
 			
-		<h2 class="texto"><p align="center">
+		
 <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQYrOEZZH7CGJuLucLeP-e-bfch5iFhjrQnw&usqp=CAU"><img width="500px" height="375" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQYrOEZZH7CGJuLucLeP-e-bfch5iFhjrQnw&usqp=CAU"></a></p>
 RUA DA LADEIRA E PREFEITURA MUNICIPAL
 			<h2 class="texto"><p align="center">
