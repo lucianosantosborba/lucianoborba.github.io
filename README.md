@@ -171,7 +171,7 @@ LOGOS ASSEMBLEIA DE DEUS, ,FLOR DE LIZ ESCOTISMO IN WORLD
 	
 	
 	<div id="header">
-<center><h2> locais da city </h2></div></center>
+<center><h2> locais da city beach and parks </h2></div></center>
 
 
 <table><tr><td><div><a href="https://i.pinimg.com/564x/34/a0/52/34a052e8c4095cfc22b0a30bd2de9a1e.jpg"><img width="230px" height="190px"src="https://i.pinimg.com/564x/34/a0/52/34a052e8c4095cfc22b0a30bd2de9a1e.jpg"></a>
@@ -914,7 +914,7 @@ DICIONARIO INGLES  HINDI
 	
 	
 	<div id="header">
-<center><h2> Lindas praias </h2></div></center>
+<center><h2> locais da city beach and parks </h2></div></center>
 
 
 <table><tr><td><div><a href="https://media.tenor.com/Z6xgtxcs6FwAAAAd/carboneras-sea.gif"><img width="230px" height="190px"src="https://i.pinimg.com/originals/95/c1/d0/95c1d00ac3ecdebc2277d33d47b0d637.gif"></a>
@@ -950,7 +950,7 @@ maior planície da Ilha.
 
 </tr>	<hr>
 <div id="header">
-<center><h2> THE BEST PARK </h2></div></center>
+<center><h2> locais da city beach and parks </h2></div></center>
 
 
 <table><tr><td><div><a href="https://media.tenor.com/Z6xgtxcs6FwAAAAd/carboneras-sea.gif"><img width="230px" height="190px"src="https://c8y3s8d4.stackpathcdn.com/wp-content/uploads/2015/06/vista-universal-studios-orlando.png"></a>
