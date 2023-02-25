@@ -863,7 +863,6 @@ DICIONARIO INGLES  HINDI
 	
 	
 	<div id="header">
-<center><h2> locais da city beach and parks </h2></div></center>
 
 
 <table><tr><td><div><a href="https://media.tenor.com/Z6xgtxcs6FwAAAAd/carboneras-sea.gif"><img width="230px" height="190px"src="https://i.pinimg.com/originals/95/c1/d0/95c1d00ac3ecdebc2277d33d47b0d637.gif"></a>
