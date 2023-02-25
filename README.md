@@ -151,16 +151,55 @@ ESCOLA PEDRO BORBA
 <a href="https://i.pinimg.com/564x/87/b1/e8/87b1e82ccf8deb44271527148895fd37.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/87/b1/e8/87b1e82ccf8deb44271527148895fd37.jpg"></a></p>
 ESCOLA AMARAL LISBOA
 <a href="https://i.pinimg.com/564x/d6/77/5f/d6775ff0e20680364fe2924f20605ea5.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/d6/77/5f/d6775ff0e20680364fe2924f20605ea5.jpg"></a></p>
+
 GUERINÃO
 <a href="https://i.pinimg.com/564x/34/a0/52/34a052e8c4095cfc22b0a30bd2de9a1e.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/34/a0/52/34a052e8c4095cfc22b0a30bd2de9a1e.jpg"></a></p>
 ESCOLA BARRO VERMELHO
+
 <a href="https://i.pinimg.com/564x/9c/08/ef/9c08ef3ce502418025d036441282c2a1.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/9c/08/ef/9c08ef3ce502418025d036441282c2a1.jpg"></a></p>
+
 LOGOS ASSEMBLEIA DE DEUS, ,FLOR DE LIZ ESCOTISMO IN WORLD
+
 <h2 class="texto"><p align="center">
 <a href="https://i.pinimg.com/564x/be/60/e0/be60e09e95a4acbdfe477d05453748b8.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/be/60/e0/be60e09e95a4acbdfe477d05453748b8.jpg"></a></p>
 	
+	
 <h2 class="texto"><p align="center">
 <a href="https://i.pinimg.com/564x/2f/a4/ec/2fa4ec5db7dd51fee387c63ec3596b37.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/2f/a4/ec/2fa4ec5db7dd51fee387c63ec3596b37.jpg"></a></p>
+
+	
+	
+	
+	<div id="header">
+<center><h2> locais da city </h2></div></center>
+
+
+<table><tr><td><div><a href="https://i.pinimg.com/564x/34/a0/52/34a052e8c4095cfc22b0a30bd2de9a1e.jpg"><img width="230px" height="190px"src="https://i.pinimg.com/564x/34/a0/52/34a052e8c4095cfc22b0a30bd2de9a1e.jpg"></a>
+<pre>Guerinão
+</pre></div>
+</td><td><div><img width="230px" height="190px" src="https://i.pinimg.com/564x/9c/08/ef/9c08ef3ce502418025d036441282c2a1.jpg">
+<pre>Escola barro vermelho
+
+</pre></div> </td>
+<td> <div><a href="https://i.pinimg.com/564x/be/60/e0/be60e09e95a4acbdfe477d05453748b8.jpg"><img width="230px" height="190px" src="https://i.pinimg.com/564x/be/60/e0/be60e09e95a4acbdfe477d05453748b8.jpg"></a>
+
+<pre>logo assemble world
+</pre></div></td>
+	
+	<td> <div><a href="https://i.pinimg.com/564x/2f/a4/ec/2fa4ec5db7dd51fee387c63ec3596b37.jpg"><img width="230px" height="190px" src="https://i.pinimg.com/564x/2f/a4/ec/2fa4ec5db7dd51fee387c63ec3596b37.jpg"></a>
+
+<pre>Flor de Liz hooph hooph
+scout for world!!!!!
+</pre></div></td>
+
+</tr>	
+
+	
+	
+	
+	
+	
+	
 	
 	QUE DEUS ABENÇOE AMÉM QUE DEUS PROTEJA  TODOS OS NOSSOS CAMINHOS AMÉM QUE DEUS NOS PROSPERE PROSPERE ,
 	E SEMPRE NOS DE SAUDE AMÉM!!!!!
