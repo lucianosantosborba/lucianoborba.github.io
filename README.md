@@ -125,8 +125,7 @@ RUA GERAL OSORIO 2
 <a href="https://i.pinimg.com/originals/b7/02/dc/b702dc4127886711c5e814528fbe444c.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/b7/02/dc/b702dc4127886711c5e814528fbe444c.jpg"></a></p>
 PRAÇA DA MATRIZ
 <a href="https://i.pinimg.com/originals/04/0b/5e/040b5e283da3474999e93ca6002589f7.jpg"><img width="500px" height="375" src="https://i.pinimg.com/originals/04/0b/5e/040b5e283da3474999e93ca6002589f7.jpg"></a></p>
-LUGAR ESPECIAL
-<a href="https://i.pinimg.com/564x/c7/fd/50/c7fd50340fa4b3a09738c1c336fd5bc6.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/c7/fd/50/c7fd50340fa4b3a09738c1c336fd5bc6.jpg"></a></p>
+
 PONTE NOVA E PONTE VELHA E PONTE DOS TRENS
 <a href="https://i.pinimg.com/564x/22/be/a5/22bea58bc21aaf468b99d71aea9836a3.jpg"><img width="500px" height="375" src="https://i.pinimg.com/564x/22/be/a5/22bea58bc21aaf468b99d71aea9836a3.jpg"></a></p>
 
