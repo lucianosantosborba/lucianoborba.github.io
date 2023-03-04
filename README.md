@@ -97,7 +97,7 @@ tomara que venham a conseguir esta benção
 		
 		
 		apostilas de ensino tecnico gratuitas
-	<h2 class="texto"><p align="center">
+	
 <a href="www.drive.google.com/file/d/1vmu-oWwykAEpTDs7Bpc7iGkRuz85IJx0/view?usp=sharing"><n>APOSTILAS</n></a></p>
 		
 	
