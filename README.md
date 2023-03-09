@@ -229,10 +229,11 @@ e respeito</p></section>
 		
 				www.drive.google.com/drive/folders/0B1nwmMm5MT79WGhzaldYNUhTRmM?resourcekey=0-kEjk3YJZPJyI-GoniS8lkA&usp=share_link
 	
-		gramatica inglesa Apostila 12000 words: 
+		
+			<h2 class="texto"><p align="center">
+<a href="https:drive.google.com/file/d/1XwxmtVQKhmn8EmLXTpU38HILjqhlsfd9/view?usp=sharing	">gramatica inglesa Apostila 12000 words: </a></p>
 			
-			
-	www.drive.google.com/file/d/1XwxmtVQKhmn8EmLXTpU38HILjqhlsfd9/view?usp=sharing		
+		
 	www.drive.google.com/file/d/12pI5H2fr1ed8rOMlMquME3VmxjfytnPx/view?usp=sharing	
 			
 <pre>			
@@ -842,16 +843,26 @@ emnome do Deus pai do filho e do espirito santo divino e d ejehovah beriti e pal
 APOSTILA BANCO DO BRASIL
 www.drive.google.com/drive/folders/1hzir_DfvzQ-gXy0cdK6JcBGP6m4NLita?usp=sharing
 		
-		DICIONARIO PORTUGUES FRANCES
-		www.drive.google.com/file/d/11ZMMNkouMaGPI_wve4FII4Z5vD7cY5Fp/view?usp=sharing
 		
-DICIONARIO INGLES  HINDI
-		www.drive.google.com/file/d/1i2X4-atRfxLH9bTYk743Ie-cK2Bud5Lp/view?usp=sharing
-		APOSTILA CULINARIA
-		www.drive.google.com/file/d/1Aeo5iibAHgsWLnPOxA80PuqnvKC7ipY4/view?usp=sharing
+	
+		<h2 class="texto"><p align="center">
+<a href="https:drive.google.com/file/d/11ZMMNkouMaGPI_wve4FII4Z5vD7cY5Fp/view?usp=sharing">DICIONARIO PORTUGUES FRANCES </a></p>
 		
-		DECORAÇÃO DE ALTO PADRÃO IN WORLD
-		www.drive.google.com/drive/folders/1nOO0T3oLhurSCaDqh8GLqVvjfeff_Uq0?usp=share_link
+
+		
+		
+		<h2 class="texto"><p align="center">
+<a href="https:drive.google.com/file/d/1i2X4-atRfxLH9bTYk743Ie-cK2Bud5Lp/view?usp=sharing">DICIONARIO INGLES  HINDI </a></p>
+
+		
+	
+		<h2 class="texto"><p align="center">
+<a href="https:drive.google.com/file/d/1Aeo5iibAHgsWLnPOxA80PuqnvKC7ipY4/view?usp=sharing">APOSTILA CULINARIA </a></p>
+		
+		
+	
+		<h2 class="texto"><p align="center">
+<a href="https:drive.google.com/drive/folders/1nOO0T3oLhurSCaDqh8GLqVvjfeff_Uq0?usp=share_link">DECORAÇÃO DE ALTO PADRÃO IN WORLD </a></p>
 		</pre>
 		whale 
 		
