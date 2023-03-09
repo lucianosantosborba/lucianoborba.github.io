@@ -231,7 +231,7 @@ e respeito</p></section>
 	
 		
 			
-<a href="https://drive.google.com/file/d/1XwxmtVQKhmn8EmLXTpU38HILjqhlsfd9/view?usp=sharing	">gramatica inglesa Apostila 12000 words: </a></p>
+<a href="https://drive.google.com/file/d/1XwxmtVQKhmn8EmLXTpU38HILjqhlsfd9/view?usp=sharing">gramatica inglesa Apostila 12000 words: </a></p>
 			
 		
 	
@@ -843,7 +843,7 @@ www.drive.google.com/drive/folders/1hzir_DfvzQ-gXy0cdK6JcBGP6m4NLita?usp=sharing
 		
 	
 		<h2 class="texto"><p align="center">
-<a href="https:drive.google.com/file/d/11ZMMNkouMaGPI_wve4FII4Z5vD7cY5Fp/view?usp=sharing">DICIONARIO PORTUGUES FRANCES </a></p>
+<a href="https://drive.google.com/file/d/11ZMMNkouMaGPI_wve4FII4Z5vD7cY5Fp/view?usp=sharing">DICIONARIO PORTUGUES FRANCES </a></p>
 		
 
 		
@@ -854,12 +854,12 @@ www.drive.google.com/drive/folders/1hzir_DfvzQ-gXy0cdK6JcBGP6m4NLita?usp=sharing
 		
 	
 		<h2 class="texto"><p align="center">
-<a href="https//:drive.google.com/file/d/1Aeo5iibAHgsWLnPOxA80PuqnvKC7ipY4/view?usp=sharing">APOSTILA CULINARIA </a></p>
+<a href="https://drive.google.com/file/d/1Aeo5iibAHgsWLnPOxA80PuqnvKC7ipY4/view?usp=sharing">APOSTILA CULINARIA </a></p>
 		
 		
 	
 		<h2 class="texto"><p align="center">
-<a href="https//:drive.google.com/drive/folders/1nOO0T3oLhurSCaDqh8GLqVvjfeff_Uq0?usp=share_link">DECORAÇÃO DE ALTO PADRÃO IN WORLD </a></p>
+<a href="https://drive.google.com/drive/folders/1nOO0T3oLhurSCaDqh8GLqVvjfeff_Uq0?usp=share_link">DECORAÇÃO DE ALTO PADRÃO IN WORLD </a></p>
 		</pre>
 		whale 
 		
